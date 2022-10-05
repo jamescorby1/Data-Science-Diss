@@ -1,0 +1,1917 @@
+,Title,Target
+0,OWASP - Broken Web Applications Project,Critical
+1,Why is this machine getting so many icmp replies although we can see that no requests were sent. Also arcsight detected that this machine is doing a ping sweep. Btw some of these ips that are sending icnp replies have the subnet ip as this machine but they dont exist in the orginization.,Critical
+2,Having an issue with auxiliary/scanners/ssh/ssh_login metasploit module,Critical
+3,How to Calculate Power in Statistics,Critical
+4,What is the best books/sites/channels to learn basic to advanced networking?,Critical
+5,My first PenTest! Questions,Critical
+6,"Doing overthewire, found this on stackexchange",Critical
+7,"Cybersecurity professionals, do you like ur job?",Critical
+8,Cyber lab (defense against attacks),Critical
+9,how good is code academy free web courses for knowing web well enough to start web exploitation?,Critical
+10,"New to Docker, I want to launch a container running a vulnerable service for testing remote BOF, the way HTB does.",Critical
+11,Do penetration testers have to be available around the clock?,Critical
+12,"[Hacking Android] Practicing rooting a tablet via exploit (Onn 7"" Android 9 Tablet)",Critical
+13,Where can I learn about malware?,Critical
+14,Peloton Tread+ sideload apk,Critical
+15,Email Recovery,Critical
+16,"Crypto, distributed ledger and consensus",Critical
+17,What should I be learning next?,Critical
+18,how do I get an encryption key log file in Ubuntu?,Critical
+19,Where to run python script from to avoid detection?,Critical
+20,Career capital in broad field of hacking?,Critical
+21,Is there anyway to submit a form online if the website has stopped accepting it?,Critical
+22,Hacking tools,Critical
+23,Arlo exploit,Critical
+24,Remote internships?,Critical
+25,Honeypots hosted in docker,Critical
+26,Is Pentesteracademy legit?,Critical
+27,is there any cracked nanocore or remcos thats not a backdoor itself,Critical
+28,What happened to this site?,Critical
+29,Question about open ports,Critical
+30,How do you use QuasarRAT,Critical
+31,Is a masters degree in cybersecurity or computer science better for going into cybersecurity to be a penetration tester or ethical hacker and security researcher?,Critical
+32,Got logged into random Facebook account second time.,Critical
+33,How do people create cheats without having the source code?,Critical
+34,Why do they have cybersecurity masters degrees if a computer science degree works better?,Critical
+35,I have narrowed down my password to 5000 options. What software can automatically crack it?,Critical
+36,where i should start to create cheat with C#,Critical
+37,What’s a good curriculum/path to learn WiFi hacking specifically,Critical
+38,How to make a mod for a traditionally non-mod game,Critical
+39,How to export raw sms files from iPhone/iCloud?,Critical
+40,John the ripper --rules vs --rules:single,Critical
+41,Newbie-can John The Ripper crack .sbx files? Thanks,Critical
+42,How do I know how many slashes to put at the beginning of a Samba endpoint?,Critical
+43,Why did Hacking Exposed Series stop? Or at least why do so many of these things such as wireless hacking exposed stop?,Critical
+44,Linux - Can't connect to a Wi-Fi network after putting my wifi card in monitor mode through airmon-ng,Critical
+45,Cracking my own Keepass db - any ideas?,Critical
+46,What can I do from a phone?,Critical
+47,How do I dump a iPhone storage.,Critical
+48,¿What can I do o know with an IP address?,Critical
+49,Looking for advice Changing fields from malware reverse engineering to penetration testing tips/tricks,Critical
+50,Are there any ways to get a free non-voip USA phone number for sms verification?,Critical
+51,Camphish but for Camera Roll,Critical
+52,IP address,Critical
+53,What is the most common attacks to get root access?,Critical
+54,Reverse engineering and Forensis Is there any connection between the two?,Critical
+55,how to disable phones/ bluetooth devices/ internet when i walk into a room,Critical
+56,Help me,Critical
+57,Is there a way to get someone’s IP through their instagram,Critical
+58,"Here, a page with an upload and submit button is being loaded on the website. What is this vulnerability name?",Critical
+59,Rainbow crack on MD5 hashes,Critical
+60,Any links to boost understanding?,Critical
+61,Hypothetically speaking how difficult would it be to delete another persons discord server for ever.,Critical
+62,How important is understanding computer architecture in reverse engineering? Should I shift my focus more towards operating systems? or should I just focus on understanding x86 more?,Critical
+63,Laptop For Certs,Critical
+64,Format string vulnerability on 64 bits. How can I overcome null bytes?,Critical
+65,creating own backdoor script with metaslpoit and meterpreter?,Critical
+66,Basic penetration testing,Critical
+67,Need help crafting query for SQL injection,Critical
+68,How to make a rat usb?,Critical
+69,How do I begin with Pen Testing and Bounty Hunting? Do I have enough skills?,Critical
+70,How might someone get good at reverse engineering and deobfuscation?,Critical
+71,Video resources - any suggestions for an amateur?,Critical
+72,"After finding a open port, what next?",Critical
+73,Jamming / Killing Bluetooth devices,Critical
+74,Question about nmap,Critical
+75,BYOB NOT WORKING,Critical
+76,AutoModerator is on trial!,Critical
+77,Completely new to the space and to Kali Linux.,Critical
+78,2 quick questions about byob,Critical
+79,ACK scan - Nmap.,Critical
+80,Keylogger Install with USB Rubber Ducky,Critical
+81,Hacking firmware for pc build??,Critical
+82,SIM card projects?,Critical
+83,Problem with msfvenom,Critical
+84,Problems with Wireshark and Cookie Cadger,Critical
+85,How do the biggest hacker sift though hundreds of millions of accounts and passwords,Critical
+86,Open ports on router,Critical
+87,How SUDO on Linux was HACKED! // CVE-2021-3156,Critical
+88,How do I slow my internet speed purposefully?,Critical
+89,where is zip2john?,Critical
+90,what's the difference between the damn vulnerable web app and the extreme vulnerable web app?,Critical
+91,Anyway to unlock an cheap Chinese Smart Watch?,Critical
+92,"I am looking for a file check bypass, but I cannot change the file name without changing the type. How do I create a file named "".pdf"", for example, but still have a .php file?",Critical
+93,John The Ripper help,Critical
+94,Where to learn networking,Critical
+95,web vulnerability scanner suggestions,Critical
+96,Which one is safer? TOR or VPN?,Critical
+97,a site to solve reading questions,Critical
+98,We Found a Pre-Released WhatsApp Feature - Technical Analysis,Critical
+99,"if you had to pick ten places to practice web hacking on, five that encourage hacking tools and five that don't, what would they be?",Critical
+100,Are all network hacking based of off gaining access to systems using ports?,Critical
+101,Is it possible to access networks outside your local network remotely?,Critical
+102,Question about Virtual Machines,Critical
+103,I'm using tryhackme. I've setup openvpn successfully but I need a password.,Critical
+104,Is it possible to spread malware by just seeding a torrent ?,Critical
+105,"Help me , details in comments.",Critical
+106,How someone can access Phone Camera using just a link || be careful what link you open,Critical
+107,SQLi woes,Critical
+108,Question about rainbow tables,Critical
+109,Tenda D151 & D301 - Unauthenticated configuration download (PoC),Critical
+110,How to connect to devices connected to wifi,Critical
+111,"Following the True Path to Hacking by Voya (July 7, 1999)",Critical
+112,Learn Wireshark in 10 minutes,Critical
+113,Scanning ports of a router behind NAT,Critical
+114,Total beginer wanting to join/create a group of friendly people willing to learn.,Critical
+115,This is probably a stupid question but this has been bothering me for a while now...,Critical
+116,Pulse Secure lab?,Critical
+117,How do people hack nearby NFC credit cards?,Critical
+118,Help hacking personal computer (purely educational),Critical
+119,What attacks can be conducted on websites that do not use HTTPS/SSL security?,Critical
+120,Getting past administrative account on laptop,Critical
+121,Union Based SQLi To RCE! - Escalate your SQL injections!,Critical
+122,Is it possible to hack big company or government websites like they do in movies and like they did 20 years ago?,Critical
+123,How do you set up a proxy tunnel in Kali Linux?,Critical
+124,a site to solve reading questions,Critical
+125,How to WPS Brute-force on android (Question),Critical
+126,How exactly can you use wire shark in hacking?,Critical
+127,how much web development skills are appropriate before learning web hacking?,Critical
+128,how2hax0r fbi,Critical
+129,Python script help?,Critical
+130,Total beginer wanting to join/create a group of friendly people willing to learn.,Critical
+131,Can you exploit a filtered port?,Critical
+132,"Is Bypassing payment gateway in websites when buying Digital Products possible? I mean products like software . If possible , please do explain.",Critical
+133,Super bummed.,Critical
+134,Just a quick question.,Critical
+135,How do I discover a formula inside an exe file?,Critical
+136,Can i get I malware from a video file format like .mp4 and .mkv?,Critical
+137,Airodump-ng not showing any stations,Critical
+138,How to hack 2009 Samsung slide out phone with proprietary OS?,Critical
+139,Is view source code still a thing?,Critical
+140,"Trying to obtain a login for a VM to solve a ctf and it's showing a web console, what can I use it for?",Critical
+141,thing to try to hack/do after installing on virtual box,Critical
+142,Will this work? (Batch),Critical
+143,How to encounter WPA3 in a pentest?,Critical
+144,"Open ports on an Alexa, does this look right?",Critical
+145,Cobalt strike source on GitHub?,Critical
+146,Does anyone have a walkthrough for CVE-2021-3156,Critical
+147,"A guy on discord hacked a famous streamer's Whatsapp in live. As a non-hacker, it got me jaw dropping. How?",Critical
+148,I'm a junior fullstack developer looking for places to learn,Critical
+149,"I'm running hashcat and the task manager says that my GPU is not being used much compared to integrated graphics, is that how it supposed to look or did I mess something up?",Critical
+150,What does this mean/do ?,Critical
+151,Metasploit - Session after a reboot,Critical
+152,Is there any way I can install PHP Storm for free?,Critical
+153,How do I turn one line web java into a normal format?,Critical
+154,Is there a way to send messages through nmap or something similar,Critical
+155,Open ports on router,Critical
+156,2 questions,Critical
+157,Raidforums Database leaks,Critical
+158,How to get tp-link wn725n V3 to work on kali linux.,Critical
+159,Is there a way I can decrypt files from an android vault application if I have the folder with keys?,Critical
+160,Real hacking?,Critical
+161,Trying to help out my little sister,Critical
+162,Ngrok url sent to gmail detected as phishing.. help!!,Critical
+163,"Trying to obtain the login details for a VM for a CTF, I've investigated all open ports but can't find any vulnerabilities or useful information, what should I explore next?",Critical
+164,Introduction to SQL Injection,Critical
+165,Dstik deauther watch / looking for recs or info on use/positive outcomes - tried posting this not retyping here’s the image ; (WiFi spoof)(WiFi cracking)] 🤨,Critical
+166,How do people hide their ip when stealing information?,Critical
+167,"Does anyone know of a simple pdf file (ideally, but really just anything at this point) for a complete breakdown of python?",Critical
+168,How to find full URL if you only know the beginning,Critical
+169,How much money do any of you in this subreddit make? Do you need a real job to stay afloat?,Critical
+170,Setting up blackeye phishing but getting error,Critical
+171,"Years ago, there was an app that was able to find the default wifi password knowing the ssid of the router. How can it do it? How is this vulnerability call? Is it still a vuln in 2021?",Critical
+172,How to identify and disable created boot loaders?,Critical
+173,"Got hacked, need advice...",Critical
+174,Complete Malware Analysis VM Image,Critical
+175,How to examine a known virus in sandbox context,Critical
+176,How much Linux and Windows skills do most professional hackers have?,Critical
+177,"*most asked question* How would learn to hack from the beginning assuming you don't know any coding languages, how would you start step by step",Critical
+178,How do I get the hashed password in the first place?,Critical
+179,How to detect if file is being read/opened on remote server,Critical
+180,"Bypassed a captive portal, but on the ""slow"" speed",Critical
+181,MD5 Hashcat help,Critical
+182,Hashcat and WPA2 cracking. Limt GPU usage?,Critical
+183,Question about scanning other networks,Critical
+184,"Tried capturing this Wifi's handshake. As you can see, it never said Handshake Captured on terminal like its supposed to, but yet it created the capture files? Did i capture the handshake or no?",Critical
+185,HOW TO BYPASS STANDFORD MOSS CODE DETECTION - TUTORIAL,Critical
+186,Best hacking forums ?,Critical
+187,[Newb] - Question about backdoors,Critical
+188,cant listen to my ngrok server in kali linux,Critical
+189,Trying to find a username and password to access a virtual machine to solve a CTF?,Critical
+190,How many learning subscriptions should I sign up for?,Critical
+191,John the ripper mask troubles,Critical
+192,Finding OS vulnerabilities,Critical
+193,Some questions about this guide,Critical
+194,Is ethically hacking a school network really worth it?,Critical
+195,Using netcat in a vm to recieve data,Critical
+196,Ringzero CTF cryptography - Fashion victim,Critical
+197,How much web development should I know before doing web hacking?,Critical
+198,How do i find a hash?,Critical
+199,IP accuracy?,Critical
+200,Wi-fi adapter for monitor mode that work currently,Critical
+201,Is there a clear cut guide to understanding how and why the most basic tools work for kali etc,Critical
+202,tomahawque CTF,Critical
+203,--write command problems in kali linux,Critical
+204,How to unlock .7z archive where I accidentally typed the password wrong,Critical
+205,How to find out if an android phone is ratted?,Critical
+206,"My job is making me use an app called TSHEETS is there any way to ""tailor"" it to give myself a cushion?",Critical
+207,"I want to create a Hwid spoofer, where would I start?",Critical
+208,Port Scanning question,Critical
+209,Question about IPs,Critical
+210,App-Token in ios app api calls,Critical
+211,"What are ways to take IP addresses other than script kiddie methods? I don't wanna use this for evil purposes, I just need these options so I can protect myself.",Critical
+212,What are brute force python password crackers used for?,Critical
+213,Does anyone have any idea what this JQuery script does?,Critical
+214,Hashcat configuration on Xubuntu,Critical
+215,Pivoting in lab,Critical
+216,A few questions,Critical
+217,Janet v1.1 REPL Sandbox Bypass exploit - from UMassCTF 2021,Critical
+218,How does ip spoofing work with x-forwarded-for header ?,Critical
+219,Hello!,Critical
+220,Privilege escalation through a bad usb,Critical
+221,when intercepting request of a website I am getting this authenticity token. is this a token leakage that can be escalated to an attack? please observe carefully.,Critical
+222,WattPad Breach download,Critical
+223,Segmentation fault with John,Critical
+224,Hashcat V4.2.0,Critical
+225,How to start hacking? The ultimate two path guide to information security.,Critical
+226,Announcing Reddit’s Public Bug Bounty Program Launch,Critical
+227,Apple products hit by fourfecta of zero-day exploits,Critical
+228,Is Your Son a Computer Hacker? (2001),Critical
+229,CVE-2021-21551- Hundreds Of Millions Of Dell Computers At Risk Due to Multiple BIOS Driver Privilege Escalation Flaws,Critical
+230,Hacker Breaks Down Hacking Scenes From Movies & TV | WIRED,Critical
+231,Australia wants to introduce cybersecurity into its school curriculum,Critical
+232,Is this safe?,Critical
+233,"[Events] ""vBeer v2"" online Party! - 7 May at 3PM UTC",Critical
+234,Telegram trace,Critical
+235,How to tell if IP address from hacker is from a vpn?,Critical
+236,Boss wants vulnerability scans completed on Linux servers and WordPress websites.,Critical
+237,"PC App says ""Using screen recording software is not allowed""",Critical
+238,is it possible to use aircrack on windows,Critical
+239,Can an Intrusion Prevention System (e.g. Snort) prevent CSRF and XSS attacks?,Critical
+240,This is why you don't do(learn) exploit development on your main system. Thank god for virtual machines,Critical
+241,Where do I start ethical hacking?,Critical
+242,Scripps Health Hit By Cyberattack,Critical
+243,Computer science student. Just figured out what I want to do with my degree. Hacking.,Critical
+244,Has anyone found or know of an alternative tool to beef,Critical
+245,Odd Request,Critical
+246,Wifi monitor mode - can’t use headless,Critical
+247,Linux Privilege Escalation - Vulnerable Sudo Version,Critical
+248,"How easy is it to hack a fully patched and properly configured Wordpress site that uses SSL, a security firewall plugin (like Sucuri or iThemes) while also proxied via cloudflare?",Critical
+249,Beef_over_wan and python problems,Critical
+250,Quedtion about Samy kamkar's myspace hack,Critical
+251,"Bypassing/overriding firmware password on a macbook air? (A1465, mid 2013 11” model)",Critical
+252,The ransomware surge ruining lives. BBC speaks to 2 victim organisations hit with crippling ransomware attacks. New Ransomware Task Force launched to attempt to end the boom.,Critical
+253,XPOST : SACA Technolgoies/ IronOrbit MSP breached.,Critical
+254,Security firm Kaspersky believes it found new CIA malware,Critical
+255,Are any Hak5 tools really worth it?,Critical
+256,A New Approach to Finding Malware Cross-Correlates Threat Intelligence Feeds to Reduce Detection Time,Critical
+257,Is python the only language for hacking?,Critical
+258,iOS 14.5 FaceID Facemask Restriction Bypass,Critical
+259,F5 Big-IP Vulnerable to Security-Bypass Bug,Critical
+260,Arbitrary code execution found in ExifTool. Make sure to update to 12.24+,Critical
+261,Looking for a certain keygen for educational purposes,Critical
+262,Setting up a Windows Active Directory Lab with VirtualBox,Critical
+263,Is The Art of Exploitation still relevant?,Critical
+264,Security is never too much. I walked into the workstations of an Iranian ISP,Critical
+265,Looking for the old malduino,Critical
+266,Exploring the use of Iptables as an Application Layer Firewall,Critical
+267,Hacking challenge with a 1.7M satoshi reward,Critical
+268,Android Malware Flubot using UPS themed Emails for Phishing,Critical
+269,"What do I read to start learning ethical hacking? ""I have some programming experience"".",Critical
+270,LOIC vs HOIC (and the capabilities of both),Critical
+271,Trickbot is back again - with fresh phishing and malware attacks,Critical
+272,prevent/detect IMSI-catcher?,Critical
+273,Dystopian hacker short documentary now available for everyone,Critical
+274,What goes into the effectiveness of a brute force password crack (not sure if I said it right. Might be called a dictionary crack or something)?,Critical
+275,The Pentagon gave control of 175 million IP addresses to a mysterious company,Critical
+276,Bugs Allowed Hackers to Dox John Deere Tractor Owners,Critical
+277,Does Google keep MAC info?,Critical
+278,Bcrypt hashes w/ rockyou,Critical
+279,"AirDrop bugs expose Apple users’ email addresses, phone numbers",Critical
+280,Is it possible to crack a WPS faster with more Wifi interface devices?,Critical
+281,Encrypted 7z files,Critical
+282,A hacker broke into a secret videoconference between EU defense chiefs,Critical
+283,A more or less complete guide on a FUD payload,Critical
+284,Did i just found a Social Engineering site to steal GitHub Passwords ?,Critical
+285,Anyone want to develop a anti-ransom program with me?,Critical
+286,Investigators found data vulnerability in Apple AirDrop,Critical
+287,Angstrom CTF2021 | Exploiting Python Pickle in Flask Web App,Critical
+288,"So, did anyone get a Flipper Zero?",Critical
+289,What is the state of exploit development in 2021 and is it still worth entering the field now(as a beginner)?,Critical
+290,The Incredible Rise of North Korea’s Hacking Army,Critical
+291,How SUDO on Linux was HACKED! // CVE-2021-3156,Critical
+292,Well-known security researcher and DNS legend Dan Kaminsky has died of unknown causes,Critical
+293,Windows Privilege Escalation - Kernel Exploits,Critical
+294,"Largest Parking App Database accessed via third party vulnerability. License plates, names, contact info, encrypted passwords, no cc info",Critical
+295,Couple to Counter-Sue McDonald's Vendor Taylor over Potential IP Theft of Their QSR Solution: The Cold War Over Hacking McDonald’s Ice Cream Machines,Critical
+296,Change group policies from Windows VM booting with Linux.,Critical
+297,A foray into Linux kernel exploitation on Android,Critical
+298,"Found in another sub, Blade HQ data breach",Critical
+299,Problems with msfvenom,Critical
+300,Payload Generator,Critical
+301,How simulate medium size company network and attack it?,Critical
+302,Hackers try to extort Apple after stealing files from company that makes its products,Critical
+303,Signal CEO Hacks Cellebrite iPhone Hacking Device Used By Cops,Critical
+304,I made a keylogger with an auto mailer,Critical
+305,Monero-mining botnet targets orgs through recent MS Exchange vulnerabilities,Critical
+306,Is udemy course worth it?,Critical
+307,Signal Blog: Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer from an app's perspective,Critical
+308,Does RAM store your credentials in plaintext?,Critical
+309,The FBI removed hacker backdoors from vulnerable Microsoft Exchange servers.,Critical
+310,Hostname Naming Scheme For Comcast?,Critical
+311,What are your pet peeves for fictional hackers?,Critical
+312,Is Wls2 recommended for hacking?,Critical
+313,Where can I find a good dictionary of people names?,Critical
+314,How did Russia infiltrate the SolarWinds build system network?,Critical
+315,WiFi “Phishing”,Critical
+316,DEF CON 29 with be both in-person & virtual,Critical
+317,Google Project Zero Cuts Bug Disclosure Timeline to a 30-Day Grace Period,Critical
+318,Why is Ransomware considered an attack vector?,Critical
+319,Holy Grail of hacking,Critical
+320,Biden Races to Shore Up Power Grid Against Hacks,Critical
+321,How is a docker different from a VM and why?,Critical
+322,North Korean hackers use fake company to trick researchers.,Critical
+323,Is there a danger oh hackers making computers go on fire by overvolting hardware?,Critical
+324,SolarWinds hacking campaign puts Microsoft in the hot seat,Critical
+325,"New to learning about reverse shells and practicing in VM’s. Not getting output on “my” machine, but getting output on the target machine for commands I send on my machine to the target. How do I get the output only on my machine?",Critical
+326,VirtualBox: Making a Keylogger file from Kali VM after exploiting Metasploitable (Bridged Adapter),Critical
+327,"New Zero-Day Vulnerability Found in Google Chrome, Microsoft Edge",Critical
+328,"Following the True Path to Hacking by Voya (July 7, 1999)",Critical
+329,How does the Ironkey Managed / Enterprise version work?,Critical
+330,Open file extension .thumbnail made in Samsung gallery?,Critical
+331,How to secure stream with JWT Stream Security Filter?,Critical
+332,"How Russia Used SolarWinds To Hack Microsoft, Intel, Pentagon, Other Networks",Critical
+333,How to unpack compiled init file from IoT firmware,Critical
+334,SMB Enumeration Guide,Critical
+335,"Just wanna ask, what OS you use for hacking??",Critical
+336,Keyboard Keylogger,Critical
+337,Your favorite comedic hacking team finally takes on their evil boss the Curator in Ctrl + Alt + Underground 1.07,Critical
+338,Deauthentication vs Disassociation,Critical
+339,Things to do/avoid when writing a character who is a hacker?,Critical
+340,Router login crack without password list,Critical
+341,is there anyway to grab an ip off of twitter?,Critical
+342,Any recomendation on Networking Simulators ?,Critical
+343,Meet the Ransomware Gang Behind One of the Biggest Supply Chain Hacks Ever,Critical
+344,"Representations of ""Cyberspace"" in cyberpunk stories.",Critical
+345,Google rolls out chrome 90 which defaults to HTTPS instead of HTTP goodbye to sslstrip,Critical
+346,How do i find a vulnerability in burpsuite intruder attack?,Critical
+347,"Hack The Box to expand in America, add functions to 'hacking experiences'",Critical
+348,Finding Multiple JS Calls Automatically,Critical
+349,How to crack a long zip password?,Critical
+350,Hacking Startup 'Azimuth Security' Unlocked the San Bernardino iPhone,Critical
+351,The FBI Takes a Drastic Step to Fight China’s Hacking Spree,Critical
+352,How to leak Libc addresses from GOT on a remote machine to exploit unknown libc and bypass ASLR on 64 bit. #binary_exploitation,Critical
+353,"How to find ""easy"" bug bounty websites?",Critical
+354,How to be secure using proxychains,Critical
+355,"Usb device which pretends to be a keyboard, name?",Critical
+356,hydra/ncrack and insecure ssh keys,Critical
+357,AI hacking vs human hacking,Critical
+358,NSA says it found new critical vulnerabilities in Microsoft Exchange Server,Critical
+359,CISA says that threat actors are targeting cybersecurity researchers,Critical
+360,PHP malicious code - Why does he do it like that?,Critical
+361,"""Must watch"" defcon talks?",Critical
+362,Just wanted to know is this the right pathway ?,Critical
+363,Does anyone have a walk through for using CVE-2021-3156?,Critical
+364,Synchronous and asynchronous encryption difference,Critical
+365,How to connect burpsuite with desktop app?,Critical
+366,What's the best Windows book to find out how it works and discover place to hide your malware?,Critical
+367,What are the best encryption/obfuscation methods/algorhithms to use right now? How do I find out about new ones?,Critical
+368,Bug bounty hunting step by step (practical) resources?,Critical
+369,BlueBorne exploits - couple of BILLION vunreablle devices!,Critical
+370,Bloodhound/Sharphound AV/AMSI/CLM bypass,Critical
+371,For the love of hacking - Smart Meters,Critical
+372,what percentage of security professionals are most likely still grey hats and who is likely to be that person? What about for black hats?,Critical
+373,is hacktivism really back as a movement?,Critical
+374,Added SMA port to my old Nokia 6.1 running Kali and repeater mode.,Critical
+375,What types of ways can people crack a password?,Critical
+376,Windows and Linux Devices are under attack by a new crypto mining worm,Critical
+377,What is the simplest way to explain the behavior and the mathematics around rainbow tables?,Critical
+378,What is the best way to detect the static addresses used to store certain value? Obv in a reverse engineering context,Critical
+379,Critical Zoom vulnerability triggers remote code execution without user input,Critical
+380,Crack executables with gdb?,Critical
+381,Malware that clones chrome session id?,Critical
+382,Secrets Detection: An Emerging AppSec Category,Critical
+383,When to Report Vulnerability,Critical
+384,Where are the news of US hacking other countries?,Critical
+385,how does iBoss SSL Decryption work?,Critical
+386,Can someone explain how this Dscord exploit works and what is up with the site hosting it?,Critical
+387,"Microsoft's Windows 10, Exchange, and Teams hacked at Pwn2Own",Critical
+388,Donate. Support the Tor Project Today!,Critical
+389,dark fail up again ?,Critical
+390,Do darknet search engines actually work?,Critical
+391,Verify a onion?,Critical
+392,Deeppaste link?,Critical
+393,should i trust darkfail again?,Critical
+394,Is reddit safe to get informations and knowledge about dark web?,Critical
+395,-newbie- what websites do you use the TOR network for and why can't you find a replacement for it on ClearNet ?,Critical
+396,Is dark.fail down?,Critical
+397,Can somebody message me a link to THE Bible?,Critical
+398,Where can i get trusted links,Critical
+399,MetaGer (search engine with v3 .onion),Critical
+400,are the reddit links for dread affected by the mitm attack even if I did not access it through dark.fail?,Critical
+401,"How I set up my websites with Tor and Nginx: Available via ""clear web"" and onion address, auto redirect to HTTPS, and Onion-Location and Alt-Svc headers",Critical
+402,DDG Search if you have javascript disabled is https://3g2upl4pq6kufc4m.onion/html/,Critical
+403,Dark.fail I know it's not to be used but there onion address is not working for me is anyone else having this problem,Critical
+404,New to dark web. Anyone got any good links/tips?,Critical
+405,Trying to find onion links to forums!,Critical
+406,Free website hosting,Critical
+407,"Vendor ""LetsWork"" Busted in Massive Dark Web Cocaine Operation",Critical
+408,Is the website to download tails down(tails.boum.org?) Where else can you download Tails?,Critical
+409,What To Do If Scammed?,Critical
+410,"This ad in the sidebar for this sub, what is it supposed to be? I can't click on it.",Critical
+411,Conspiracy theory about the current situation..,Critical
+412,Dark.fail still hijacked,Critical
+413,D.C. Police Data Leaked by Babuk Ransomware Group,Critical
+414,PGP public key on iOS?,Critical
+415,Has dark.fail been compromised?,Critical
+416,Sites dark.fail and darknetlive compromised!,Critical
+417,"dark.fail, onion.live and darknetlive have all been compromised",Critical
+418,Dark.fail and Darknetlive Have Been Compromised | Both Serving Phishing Links,Critical
+419,How much can I be anonymous?,Critical
+420,What happened to The Incorrect Library?,Critical
+421,Whonix in Tails,Critical
+422,How create a boot live usd with Linux?,Critical
+423,Is there a reddit on the dw?,Critical
+424,Browse The Intercept Anonymously and Securely Using Our New Tor Onion Service,Critical
+425,"Silk Road Vendor SuperTrip aka ""Pablo Escobar of the Dark Web"" Has Just Been Released From Prison",Critical
+426,Is it possible to download stuff from the ios app?,Critical
+427,DarkNetMarkets animated documentary needs community help,Critical
+428,Can you get viruses by only surfing?,Critical
+429,"Is the Proton's built-in ""Tor over VPN"" mode legitimate ? Proton really can't see your traffic because it's encrypted by Tor ?",Critical
+430,How To Setup a Deep Web Site (And Why You Might Want To),Critical
+431,Bitcoinfog owner arrested,Critical
+432,Shady sites,Critical
+433,Can i Use Tails with 2 USB Sticks + VPN to buy anything in the dark net,Critical
+434,Pgp on android,Critical
+435,Onion over VPN vs VPN,Critical
+436,Chatrooms,Critical
+437,Help with TAILS?,Critical
+438,Is NotEvil down?,Critical
+439,"In case some of you, either new to the game or haven't been around for that long",Critical
+440,"Typed dark.live instead of dark.fail, was directed to this beauty",Critical
+441,Search site,Critical
+442,can't find links,Critical
+443,What are the safest marketplaces right now ?,Critical
+444,Doxbin,Critical
+445,Awaiting Payement,Critical
+446,Is there any way to get rid of reCAPTCHA's while using TOR ?,Critical
+447,Can I use a linux virtual machine and a vpn on my host machine to use tor? Will that keep me safe?,Critical
+448,Spokane Doctor Accused in Bizarre Dark Web Kidnapping Case,Critical
+449,Is that it?,Critical
+450,Woman Sentenced to 40 Years and Husband Commits Suicide in Dark Web Case,Critical
+451,Someone from Arg?,Critical
+452,"Interview with NeighborJimi, the Darknet Vendor Selling Everything From LSD to Methamphetamine",Critical
+453,Access denied?,Critical
+454,New silk road?,Critical
+455,TORBUY a scam,Critical
+456,search through facebook leak,Critical
+457,Largest Drug Bust in Slovenia Results in 400 Kilos of Seized Drugs,Critical
+458,If i use tor to log into my email can everyone in the tor chain seen my password?,Critical
+459,"What is ""OurRealm Search Engine"" and why does a banner for it appear on many pages?",Critical
+460,.onion reviews,Critical
+461,has NotEvil been down for y'all as well?,Critical
+462,I cant download Tor on Ubuntu 20.04,Critical
+463,Crawlers,Critical
+464,dark web links,Critical
+465,darknet surfing,Critical
+466,I’m not really an expert on computers but I’m really interested on browsing the deep web is there a way to browse safely via IOS ?,Critical
+467,"Securely and anonymously share files, host websites, and chat with friends using the Tor network.",Critical
+468,Whm,Critical
+469,A reddit clone of dark web.,Critical
+470,Exodus,Critical
+471,"4 Arrested After Being Supplied With Drugs by a Pharmacy | 70,000 Codeine Cough Syrups and 15 Kilos of Amphetamine Seized",Critical
+472,Is it bad OpSec to use Tor through Brave?,Critical
+473,NJ Sex Offender Indicted After Hiring A Dark Web Hitman To Kill Teen Girl,Critical
+474,can't use reddit on Tor,Critical
+475,Im new to the darkweb and i was wondering if i can find every movie for free on it,Critical
+476,Which VPN provider do you recommend when browsing TOR?,Critical
+477,Address not found - dread,Critical
+478,Can we search on dark web with ios?,Critical
+479,Free custom onion domain prefixes for you :),Critical
+480,is I2P better than Tor?,Critical
+481,Onion Tor Streaming,Critical
+482,I live in a different place than what is on paper. Bad idea to order here?,Critical
+483,BB compendium mirrors/clone links??,Critical
+484,A list of onion sites with useful tools that we can't find on Clearnet.,Critical
+485,How do I find active dark web websites,Critical
+486,Tor on android,Critical
+487,Top hacking forums,Critical
+488,How do I verify pgp key for website,Critical
+489,Just new so please don't kill me if I say something stupid.,Critical
+490,Forums that talk about website building for both open and dark web? Learning and free plugins?,Critical
+491,tails x vm,Critical
+492,Proxy-like browsers like Tor?,Critical
+493,New rescator link?,Critical
+494,Bridge vs Direct Tor Connection,Critical
+495,Why does dread do this?,Critical
+496,Former Swiss Police Employee Accused of Selling Weapons and Ammunition on the Dark Web,Critical
+497,is dread compromised,Critical
+498,Best onion hash generator for linux?,Critical
+499,"I keep running into this error when trying to access sites. I am new to using TOR, so I don't have any idea how to fix it. I am using express vpn as well",Critical
+500,Can anyone help me through this guide?,Critical
+501,Running hidden service on same server as relay,Critical
+502,Onion Links don't load,Critical
+503,"Italian Man Pays Dark Web Hitman $12,000 to Assault Ex-Girlfriend with Acid",Critical
+504,Is there any site in the deep/dark web that contains uncensored versions of censored-only hentai?,Critical
+505,Missouri Man Gets 12 Year Sentence for Trying to Purchase Chemical Weapons on the Dark Web,Critical
+506,Used javascript on darkweb,Critical
+507,"any .onion site i ve tried to go to wont load, is this happening to you?",Critical
+508,Is Big Blue being exit scammed?,Critical
+509,"Says website is down, but it's not",Critical
+510,Imperial Library down?,Critical
+511,Can’t figure out PGP to save my life,Critical
+512,Why are a lot of hidden services http instead of https?,Critical
+513,Chat rooms,Critical
+514,"""Strategic intelligence network""",Critical
+515,Hermes: send SMS online anonymously via TOR,Critical
+516,Help: how do I get past the recon clock security,Critical
+517,How to Make Tor Browser Portable Using USB Flash Drive,Critical
+518,opened an image on a random chat,Critical
+519,Error message when trying to load a site,Critical
+520,Why does my tails application keep saying Tor is not ready. Start Tor Browser anyway? I bet it’s something obvious I am doing wrong. Just can’t figure out what that is! Help someone?,Critical
+521,what’s the point dude,Critical
+522,Any help on how to fix this ? Fairly new around a computer . Trying to install whonix on a virtual box on a laptop . Thank you !,Critical
+523,2 Russian Men Face Life in Prison After Importing Drugs from Spain to Sell on the Dark Web,Critical
+524,"new here, don’t kill me for being uneducated",Critical
+525,Non Web Browser Use Of TOR Onion Networking,Critical
+526,New to Tor,Critical
+527,Question about filters?,Critical
+528,Does anyone know the URL for Dread Forums? Cant find it,Critical
+529,"Oregon Man Who Operated Vendor Account ""The Collective"" Sentenced to 4 Years Prison",Critical
+530,3 French Men Avoid Prison After Getting Caught Ordering Ecstasy from the Netherlands,Critical
+531,Using tor for anonimity on the clearnet,Critical
+532,DeepDotWeb Administrator Pleads Guilty to Money Laundering Conspiracy,Critical
+533,As a darkdotfail alternative how will you recommend darkeye on a scale of 10,Critical
+534,idk,Critical
+535,darknet/Deepweb forum,Critical
+536,Looks like Dread is dead. What'll replace it?,Critical
+537,Deutschland im Deep Web- Anti DDoS blocks acess to website,Critical
+538,OnionTube Is Way Better Than YouTube,Critical
+539,Which forum is this? Is it illigal to visit it?,Critical
+540,Just surfing through .onions like marketplaces or umm maybe just news websites is illegal? I just started and I needed some help.,Critical
+541,which is the most popular nickname of the deep / dark web?,Critical
+542,Is Dark web defame?,Critical
+543,IOS TOR app?,Critical
+544,Net newbie,Critical
+545,"What was that one tor site, that was like an exchange group for information. Like banned and restricted knowledge, and books. The website was a black background with different categories.",Critical
+546,Resources for finding research worthy onion sites,Critical
+547,Is DeepL a safe translator to use on Tor?,Critical
+548,Found this gem. Someone doesn’t understand how tor works,Critical
+549,Supported Network Protocols,Critical
+550,Netherlands Man Scammed Twice While Trying to Hire a Hitman on the Darkweb,Critical
+551,It is safe?,Critical
+552,How safe it is to safe-broswe TOR from Ubuntu?,Critical
+553,Examining User experiences when using Tor browser - A user survey for a graduation thesis,Critical
+554,Musings on multimedia streaming via Onion Routing,Critical
+555,Tor: NoScript YouTube videos can't play,Critical
+556,Can you EVER get tracked on TOR?,Critical
+557,accidentally was redirected to illegal site and scared.,Critical
+558,WiddenHiki,Critical
+559,How do I fix? There are no logs.,Critical
+560,Further question about dark.fail,Critical
+561,Forums to bypass gag orders,Critical
+562,Text overflow,Critical
+563,Python deep web crawler,Critical
+564,"Police warn students to avoid science website. Police have warned students in the UK against using a website that they say lets users ""illegally access"" millions of scientific research papers.",Critical
+565,"Oye Gents and ladies,",Critical
+566,Are there already sales of covid vaccines on darknet markets?,Critical
+567,PWNDB up ?,Critical
+568,"Customers are Being Investigated After German Police Arrest 3 Men With Kilos of Marijuana, Opium, and Cocaine",Critical
+569,List of current and active onion email providers?,Critical
+570,could i accidentally go on the dark web,Critical
+571,Man Sentenced to Prison After Selling MDMA to a Confidential Informant,Critical
+572,Just had my motorcycle stolen. What are the chances it’ll be on the Dark Web?,Critical
+573,Deep web youtube,Critical
+574,New Browser Attack Allows Tracking Users Online With JavaScript Disabled,Critical
+575,Monitoring dark/deep web,Critical
+576,Woman Arrested At Post Office After Claiming Package Filled With 500 Grams of Marijuana,Critical
+577,TOR in spanish,Critical
+578,You Live and You Learn..,Critical
+579,When all the plugs dry up and you’ve been patient,Critical
+580,Creating a SOHO router with onion on it,Critical
+581,Youtube for Tor alongside onion links thereof,Critical
+582,To the PIRATESout in the BAYS to the sea shanities PARROTED off this impressionist monet Good day to you ALL!,Critical
+583,"Curious, what platforms used to buy bitcoin and use transfers?",Critical
+584,OnionCat Terminal Immediatly Closing (Windows 10),Critical
+585,I do not know how to read analog clocks 😭 I'm going to have to learn 🥱,Critical
+586,Any suggestions to review tor onion links (to know that they’re real or no),Critical
+587,TorNet IRC Server: A clean IRC chat,Critical
+588,I have created a brazillian version of r/onions,Critical
+589,When will Dread re-enable registration?,Critical
+590,Anyone have a xonions account they’d be willing to share ?,Critical
+591,"Romanian Man Caught with LSD, Cocaine, Amphetamine, and Cannabis Plants Arrested for Drug Trafficking",Critical
+592,Does anyone have an xonions account I could use ?,Critical
+593,Not all captchas are created equal...,Critical
+594,How come Facebook knew my location?,Critical
+595,"Research on tracking browser users even when JS is disabled. Also works against Tor browser and DeterFox, but at lower levels of accuracy",Critical
+596,Monero and Bitcoin,Critical
+597,Dreaddit capcha,Critical
+598,Password leaking/sharing onion sites?,Critical
+599,"How do I turn off JavaScript with the latest tor browser...,?!?",Critical
+600,Tor Paste,Critical
+601,Final Member of MartinLutherUK Sentenced to 6 Years,Critical
+602,Tor Paste v3,Critical
+603,Can someone provide me with a working onion link for dread?,Critical
+604,"Bandy Tubs - Send a file, receive another",Critical
+605,Accessing deep web/dark web,Critical
+606,Decentralizing the Nature of Website Security With disBalancer,Critical
+607,Why onions websites just keep loading sometimes ? I mean it's stuck at the loading screen .,Critical
+608,Any good wikis with lots of links?,Critical
+609,The truth about ordering in Australia..,Critical
+610,Teen Faces Trafficking Charges After Ordering 200 Ecstasy Pills on the Dark Web,Critical
+611,Man Who Imported 'A Whole Supermarket' of Drugs Beats Up His Ex Girlfriend After Early Release and Gets Sentenced to Jail Once Again,Critical
+612,Russian Cybercrime Forums Hacked,Critical
+613,/r/netsec's Q2 2021 Information Security Hiring Thread,Critical
+614,21Nails: Multiple Critical Vulnerabilities in Exim Mail Server,Critical
+615,"DSA-2021-088: Dell Client Platform Security Update for an Insufficient Access Control Vulnerability in the Dell dbutil Driver - Windows LPE vulnerability in Dell BIOS driver which has been around since ~2009 - CVE-2021-21551 - Inspiron, Latitude, OptiPlex, Precision, Vostro, Wyse and XPS",Critical
+616,Password reset code brute-force vulnerability in AWS Cognito,Critical
+617,Phishing with fake meeting invite,Critical
+618,Exploiting the Source Engine (Part 2) - Full-Chain Client RCE in Source using Frida,Critical
+619,FOX - Fix Objective-C XREFs in Ghidra,Critical
+620,Domain Fronting With Firebase: Hide you traffic as Mobile App traffic,Critical
+621,CVE-2021-21551- Hundreds Of Millions Of Dell Computers At Risk Due to Multiple BIOS Driver Privilege Escalation Flaws,Critical
+622,Trickbot Brief: Creds and Beacons,Critical
+623,Metadata Analysis of flatmap dependency supply chain attack,Critical
+624,Arbitrary code execution in ExifTool,Critical
+625,Exploiting weak configurations in Google Identity Platform,Critical
+626,TG8 Firewall PreAuth RCE and Password Disclosure - SSD Secure Disclosure Advisory,Critical
+627,Azure Functions Padding Oracle Issue,Critical
+628,Exploiting weak configurations in Amazon Cognito,Critical
+629,CVE-2021-29921 – python stdlib “ipaddress” – Improper Input Validation of octal literals in python 3.8.0+ results in indeterminate SSRF & RFI vulnerabilities. — “ipaddress leading zeros in IPv4 address”,Critical
+630,Added Security Measures and Changes in TLS 1.3,Critical
+631,Dependency Confusion Vulnerabilities in Unity Game Development,Critical
+632,I See Dead μops: Leaking Secrets via Intel/AMD Micro-Op Caches [PDF],Critical
+633,Google Assistant on Android 9 can bypass the screen-capture protection provided by Android’s FLAG_SECURE.,Critical
+634,I’m putting a WiFi router into a wall charger!,Critical
+635,Wagtail XSS + LocalStorage = Account Hijack - Immersive Labs,Critical
+636,DripLoader: Evasive shellcode loader for bypassing event-based injection detection,Critical
+637,LibAFL (Advanced Fuzzing Library) released,Critical
+638,TBONE: WiFi 0-click vulnerabilities discovered affecting Tesla Model S/3/X/Y,Critical
+639,"CSRF, CORS, and HTTP Security headers demystified",Critical
+640,Creating a hidden Windows User,Critical
+641,serpentine - C++ Windows RAT (Remote Administration Tool) with multiplatform RESTful C2 server,Critical
+642,Discovery and exploitation of CVE-2021-29472 to get RCE on packagist.org,Critical
+643,You Do (Not) Understand Kerberos DELEGATION,Critical
+644,Bundler is Still Vulnerable to Dependency Confusion Attacks,Critical
+645,SigNoz - Open source distributed tracing platform,Critical
+646,Malware Analysis: Ragnarok Ransomware,Critical
+647,NANDcromancy: Live Swapping NAND Flash,Critical
+648,Standardizing Automated Security Testing for IoT: Bluetooth LE (BLE),Critical
+649,Exploiting and detecting CVE-2021-25735: Bypassing Kubernetes admission webhook,Critical
+650,Linux Kernel Runtime Guard 0.9.1 Is Released,Critical
+651,"After finding a dump of credentials online (which I successfully had taken down) I made a website for reporting data breaches. I'd love some feedback, is it impossible, too much like haveibeenpwned, not useful? Thanks!",Critical
+652,CVE-2021-22204: Improper neutralization of user data in the DjVu file format in ExifTool,Critical
+653,Abusing Replication: Stealing AD FS Secrets Over the Network,Critical
+654,WordPress 5.7 XXE Vulnerability,Critical
+655,API to help audit AD credentials against 'Pwned Passwords' from HIBP,Critical
+656,Patchguard: Detection of Hypervisor Based Instrospection [P1],Critical
+657,RCE in DNF ― RHEL and CentOS still unpatched,Critical
+658,Examining JavaScript Inter-Process Communication in Firefox,Critical
+659,RemotePotato0 is an exploit that allows you to escalate your privileges from a generic User to Domain Admin.,Critical
+660,Using ADExplorer on engagements,Critical
+661,Wireshark Tutorial: Decrypting RDP Traffic,Critical
+662,Discovering Null Byte Injection Vulnerability in Embedded Web Server GoAhead,Critical
+663,"bypassing macOS's file quarantine, gatekeeper, and notarization requirements",Critical
+664,Hacking the Furbo Dog Camera: Part I,Critical
+665,remote code execution on jinja. Learn and try it yourself!,Critical
+666,Cleaning up after Emotet: the law enforcement file,Critical
+667,Volatile Memory Analysis With Volatility : Coreflood Trojan part 2,Critical
+668,"Blog posts on QEMU internals, useful for fuzzing",Critical
+669,"Multiple Issues in Libre Wireless LS9 Amazon Alexa-compatible module, used in a Gigaset L800HX",Critical
+670,Windows Living off the Land - scenario examples,Critical
+671,New Advisory – NETGEAR Nighthawk R7000 httpd PreAuth RCE,Critical
+672,Pentesting: What I should have done,Critical
+673,Supply Chain Attacks via GitHub.com Releases,Critical
+674,Supply chain attack on the password manager Clickstudios - PASSWORDSTATE,Critical
+675,Find out how multiple vulnerabilities in Hongdian H8922 allow an attacker to run arbitrary commands on the device with root privileges as well as access the device with root privileges via a backdoor account.,Critical
+676,"Of Corona, Buggy Audio Drivers and Industrial Espionage",Critical
+677,INFILTRATE: Attacking Xerox Multi Function Printers [PDF],Critical
+678,A foray into Linux kernel exploitation on Android,Critical
+679,Bypassing LSA Protection in Userland,Critical
+680,Neat trick to find AWS S3 Account IDs,Critical
+681,Initial analysis of PasswordState supply chain attack backdoor code,Critical
+682,What can you find in 57K AWS S3 buckets?,Critical
+683,A Census of Deployed Pulse Connect Secure (PCS) Versions,Critical
+684,Leaky John Deere API’s: Serious PII & Food Supply Chain Vulnerabilities Discovered In John Deere Website,Critical
+685,"Designing sockfuzzer, a network syscall fuzzer for XNU",Critical
+686,I wrote a blog post - Diving in Android Security,Critical
+687,Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer from an app’s perspective,Critical
+688,Remote code execution in Homebrew by compromising the official Cask repository,Critical
+689,"pe - Golang package to parse Windows PE files that is fast, complete and robust against malformed files.",Critical
+690,"Telegram bug bounties: XSS, privacy issues, official bot exploitation and more…",Critical
+691,An Intro to Smart Contract Security for Pentesters | iosiro,Critical
+692,Azure Application Proxy C2,Critical
+693,"I built a free tool to assess IT security risks, objectively, unbiased and visually presented. It is specially targeted at SME's who don't have the resources for deep dives but want an overview of their risk landscape. Would love your feedback.",Critical
+694,Detect and exploit OS command injection vulnerabilities against #GraphQL applications via commix.,Critical
+695,"Hacking 3,000,000 apps at once through CocoaPods",Critical
+696,CVE-2021-30481: Source engine remote code execution via game invites,Critical
+697,Internet-connected ABUS alarm systems easily hacked,Critical
+698,"Streaming encryption implementation, based on Encrypted Content-Encoding for HTTP (RFC 8188)",Critical
+699,"Analysis of Chromium issue 1196683, 1195777",Critical
+700,Check Your Pulse: Suspected APT Actors Leverage Authentication Bypass Techniques and Pulse Secure Zero-Day,Critical
+701,How to analyze mobile malware: a Cabassous/FluBot Case study,Critical
+702,"pyMalleableC2: A Python interpreter for Cobalt Strike Malleable C2 Profiles. Allows you to parse, build and modify them programmatically.",Critical
+703,HabitsRAT Used to Target Linux and Windows Servers,Critical
+704,Crack-O-Matic: Find and notify users in your Active Directory with weak passwords,Critical
+705,Named Pipe Pass-the-Hash,Critical
+706,Tenda D151 & D301 - Unauthenticated configuration download (PoC),Critical
+707,How a vulnerability in OverlayFS allows local Ubuntu users to gain root privileges,Critical
+708,What I learned of the VOIP hacker scene by setting up a SIP Honeypot,Critical
+709,Volatile Memory Analysis With Volatility : Coreflood Trojan,Critical
+710,Account protections - A Google Perspective,Critical
+711,Morpheus Turns a CPU Into a Rubik’s Cube to Defeat Hackers,Critical
+712,Airstrike Attack - FDE bypass and EoP on domain joined Windows workstations (CVE-2021-28316),Critical
+713,Mitigating CVE-2021-20291: DoS affecting CRI-O and Podman,Critical
+714,NoNameCon 2021 CFP,Critical
+715,CRypted Admin SHell,Critical
+716,"1-click RCE in Telegram, Nextcloud, VLC, Libre-/OpenOffice, Bitcoin/Dogecoin Wallets, Wireshark and Mumble",Critical
+717,Announcing Reddit’s Public Bug Bounty Program Launch,Critical
+718,[FOSS] IntelOwl v2.3.0 is out!,Critical
+719,Using DVC to tunnel arbitrary connections inside of RDP,Critical
+720,Reverse-engineering tcpip.sys: mechanics of a packet of the death (CVE-2021-24086),Critical
+721,Exploiting System Mechanic Driver's Arbitrary Write,Critical
+722,Don't leak your secrets,Critical
+723,"If you use OAUTH2 in native apps, beware",Critical
+724,Remote exploitation of a man-in-the-disk vulnerability in WhatsApp (CVE-2021-24027),Critical
+725,"Chepy 3.0.0 released. 70% faster, more plugins, more capabilities!",Critical
+726,Advancing Rust Support in Semgrep,Critical
+727,Proud to present AirStrike - client-server architecture that automates capturing and cracking WPA-2 handshakes.,Critical
+728,Open Source Archive of Legal Threats Made Against Genuine Security Researchers (Creative Commons!),Critical
+729,Creating A Custom Decoding View for WebSocket in ZAP,Critical
+730,"Cockpit CMS. The story of discovering an unauth NoSQL injection and abusing it to retrieve admin hashes, change passwords, and execute commands!",Critical
+731,Started reading Black Hat Python and it inspired me to pick up an old project of mine — Netmog :: A netcat alternative with remote code execution. Feedbacks// suggestions are welcome!!,Critical
+732,Analysis of the Fake Trezor Mobile Wallet app in the Play Store,Critical
+733,CARBINE LOADER Cryptojacking Campaign,Critical
+734,Hiding malicious processes in containers exploiting ld.so.preload - How does it works - How to prevent - How to detect with Falco,Critical
+735,Wrote a post on SSH Tunneling. Hopefully you find it useful.,Critical
+736,"Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.",Critical
+737,Cisco RV34X Series - Authentication Bypass and Remote Command Execution,Critical
+738,MassVulScan - A Bash script to quickly identifies open network ports and any associated vulnerabilities,Critical
+739,Its now possible to track users' browser activity with only HTML and CSS,Critical
+740,Zero-day vulnerability in Desktop Window Manager (CVE-2021-28310) used in the wild,Critical
+741,ELECTRIC CHROME: Exploiting CVE-2020-6418 on Tesla Model 3,Critical
+742,OpenCVE: Open-source CVE alerting platform,Critical
+743,The Risks and Dangers of Amplified Routing Loops by Andree Toonk,Critical
+744,"MIPS-Reverse - Generate automatically MIPS reverse shell shellcodes (custom IP, port and shell)",Critical
+745,Prioritizing Memory Safety Migrations,Critical
+746,Exploiting Windows RPC to bypass CFG mitigation: analysis of CVE-2021-26411 in-the-wild sample,Critical
+747,Remove the write access barrier to allow for more low privilege exploitation of search order/binplants/etc...,Critical
+748,DivideAndScan – Organize your port scanning routine fast and efficiently,Critical
+749,"Extracting VOIP Calls from network traffic - BruteShark (v1.2.1) is now capable of extracting Voip Calls among credentials, hashes, DNS and files and more. P.S: I would love for people to join the project!",Critical
+750,"PoW Shield planned features are now completed(v1.3.2), consisting of PoW spam/DDoS filter, IP & sessioin blacklisting/ratelimiting and WAF integration. The application is dockerized for rapid and lightweight(45MB) deployment.",Critical
+751,New CVE: Memory corruption vulnerability in QNAP QTS’s Surveillance Station plugin leads to a pre-auth RCE,Critical
+752,Rainbow Tables (probably) aren’t what you think - An explanation of how rainbow tables differ from lookup tables,Critical
+753,"GodSpeed - an intuitive manager for multiple reverse shells, written in Golang",Critical
+754,Looney Tunes: Exposing the Lack of DRM Protection in Indian Music Streaming Services,Critical
+755,My Security Blue Team Blue Team Level 1 Review,Critical
+756,Detecting Exposed Cobalt Strike DNS Redirectors,Critical
+757,Contextual Content Discovery: You've forgotten about the API endpoints,Critical
+758,Royal Flush: Privilege Escalation (Docker Escape) Vulnerability in Azure Functions,Critical
+759,Performing XSS with a…Nintendo Switch,Critical
+760,Kubesploit: Cross-platform post-exploitation HTTP/2 Command & Control server and agent dedicated for containerized environments.,Critical
+761,New Wormable Android Malware Spreads by Creating Auto-Replies to Messages in WhatsApp,Critical
+762,Root cause analysis for multiple vulnerabilities in the Fibaro Home Center,Critical
+763,Do You Really Know About LSA Protection (RunAsPPL)?,Critical
+764,Redefining Threat Modeling: Security team goes on vacation,Critical
+765,BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution,Critical
+766,Analysis of a Windows IPv6 Fragmentation Vulnerability: CVE-2021-24086,Critical
+767,Stanford CS253: Web Security,Critical
+768,Unexpected Journey #7 – GravCMS Unauthenticated Arbitrary YAML Write/Update leads to Code Execution (CVE-2021-21425),Critical
+769,Detecting process injection with ETW,Critical
+770,Breaking GitHub Private Pages for $35k,Critical
+771,IcedID campaign spotted being spiced with Excel 4 Macros - replacing Emotet?,Critical
+772,"Breaking Skrill – How I gave myself $25,000 balance on biggest betting sites",Critical
+773,Pwned in 604'800 seconds – I wondered how long it would take for hackers to compromise my Instagram account,Critical
+774,"I created a tool to hide a short message in an image using EXIF GPS data. GitHub project link in the comments for more info, feedback appreciated!",Critical
+775,Time for an Upgrade: How not to implement an upgrade process,Critical
+776,Apple TV for Fire OS code execution,Critical
+777,"This man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761",Critical
+778,I Built a TV That Plays All of Your Private YouTube Videos,Critical
+779,Spreadsheet for Threat Intelligence Platform requirements,Critical
+780,I built a thing - gotsecuritytxt.com - where you can see if top sites have a security.txt or query any site for its security.txt,Critical
+781,"Loom (YC12) leaks private video snippet clips, as a feature",Critical
+782,Caronte: a tool to analyze the network flow during attack/defence CTF,Critical
+783,PostgreSQL Security Hardening,Critical
+784,Terramaster NAS exposes itself over the internet using uPnP. Here's how to fix it.,Critical
+785,Spectre v4: Security Analysis of AMD Zen3 Architecture Predictive Store Forwarding,Critical
+786,Dirty Tor Exit Node to Bitcoin wallet.dat access Whitepaper (No BTC was actually stolen),Critical
+787,"[FBI/CISA] APT Actors Exploit Vulnerabilities to Gain Initial Access for Future Attack - FortiNet/FortiOS - scanning devices on ports 4443, 8443, and 10443 for CVE-2018-13379, and enumerated devices for CVE-2020-12812 and CVE-2019-5591",Critical
+788,PageBuster: stealthily dump all the code ever executed,Critical
+789,Cheating the cheater: How adversaries are using backdoored video game cheat engines and modding tools,Critical
+790,Zero click vulnerability in Apple’s macOS Mail,Critical
+791,Nice write up on a unique Cobalt Strike stager,Critical
+792,Update on campaign targeting security researchers,Critical
+793,HowTo: intercept mutually-authenticated TLS communications of a Java thick client,Critical
+794,Janet v1.1 REPL Sandbox Bypass exploit,Critical
+795,"Fuzzing sockets: Apache HTTP, Part 2: Custom Interceptors",Critical
+796,Bloodhound for Linux,Critical
+797,"DLL Proxy Hijacking Tutorial, Plus 75 Exploitable MS Teams DLLS",Critical
+798,Fingerprinting Tor relays using JARM,Critical
+799,Security Issues in Perl IP Address distros,Critical
+800,ldsview — Offline search tool for LDAP directory dumps in LDIF format,Critical
+801,"Malicious commits made to PHP project on git.php.net to allow RCE, project moved to github.com",Critical
+802,Auditing PassRole: A Problematic Privilege Escalation Permission - Ermetic,Critical
+803,"SAML XML Injection - a class of vulnerability that could allow an attacker to modify SAML responses generated by an Identity Provider, and thereby gain unauthorized access to arbitrary user accounts or to escalate privileges",Critical
+804,"“netmask” npm package, used by 270,000+ projects, vulnerable to octal input data: server-side request forgery, remote file inclusion, local file inclusion, and more (CVE-2021-28918)",Critical
+805,Poking At Elasticsearch: Beyond Just Dumping Data,Critical
+806,Sodinokibi (aka REvil) Ransomware DFIR Report,Critical
+807,Old but Gold - Attack and Defend the Sys Admins,Critical
+808,FooBar CTF 2021,Critical
+809,Results of the second independent audit of SecureDrop Workstation,Critical
+810,Exploring the Human Fingerprints on Malware,Critical
+811,CVE-2021-23888 - McAfee ePolicy Orchestrator HTML Injection,Critical
+812,"Exfil data from RDP using Num,Cap, and Scroll lock keys",Critical
+813,Can you ever (safely) include credentials in a URL?,Critical
+814,How to bypass Cloudflare bot protection (and more),Critical
+815,Bootstrap Fail - Persistent XSS via Opportunistic Domain Sniping,Critical
+816,The Consumer Authentication Strength Maturity Model (CASMM),Critical
+817,PoisonApple - a macOS persistence tool,Critical
+818,Pentester’s tricks: Local privilege escalation in OpenVAS,Critical
+819,Limelighter - A tool for generating fake code signing certificates or signing real ones,Critical
+820,OAuth2.0 abuse: Turning benign cloud apps into a risk,Critical
+821,Addressing a particular internetworking misconception: BGP Route Leaks vs BGP Hijacks,Critical
+822,APT Encounters of the Third Kind,Critical
+823,Restricted Environment IoT Hacking: All You Need Is a Remote Shell,Critical
+824,Recovering a whole PEM Private Key when half of it is redacted,Critical
+825,Hidden OAuth attack vectors,Critical
+826,New Advisory: Find out how a vulnerability in DD-WRT allows an unauthenticated attacker to overflow an internal buffer used by UPNP and trigger a code execution vulnerability,Critical
+827,"TLS 1.0, 1.1 officially deprecated",Critical
+828,"XSS how-to covering: Absolute basics, types of XSS, contexts, discovery methods, polyglots, basic filter bypasses, event attributes, escalation methods, short payloads, bypassing SOP and edge cases",Critical
+829,One day short of a full chain: Part 3 - Chrome renderer RCE,Critical
+830,TikTok vs Douyin: A Security and Privacy Analysis of ByteDance's Android apps,Critical
+831,Multiple Authorization bypass issues in Google's Richmedia Studio,Critical
+832,MindAPI - Bringing order to API hacking caos!,Critical
+833,H2C Smuggling in the Wild,Critical
+834,Advanced Persistent Infrastructure Tracking - Censys,Critical
+835,Why should you care about Content Security Policy?,Critical
+836,MobileIron Contains Static Key Details Allowing for Account Enumeration and Authentication Attacks.,Critical
+837,[CVE-2021-21123] Google Chrome Bug Bounty $5.000 File System Access API - vulnerabilities,Critical
+838,How do I get started in hacking: Community answers,Critical
+839,How legal is it actually?,Critical
+840,Looking for buddies who just started to learn hacking,Critical
+841,Python Hacking,Critical
+842,Best language for malware,Critical
+843,RAT= Remote Access Trojan,Critical
+844,Curious about Password Cracking. Start Here.,Critical
+845,Hack,Critical
+846,"How do these people get Spotify, crunchyroll, pandora or anything like for life time ?",Critical
+847,Get at me I got everything !!!,Critical
+848,C Libraries used to create malwares and keyloggers and where to find their tutorials,Critical
+849,Where to start ethical hacking,Critical
+850,How to create tools using python,Critical
+851,Kali linux vm step,Critical
+852,Double-spending attack,Critical
+853,How to Download Unacademy Videos For Free [ Quick Guide ],Critical
+854,confusion in python,Critical
+855,Computer,Critical
+856,Do you know any tool to look for ip adresses?,Critical
+857,Re-Visiting File Upload Vulnerabilities - TryHackMe Advent of Cyber,Critical
+858,Raspberri pi or just stick to VM's for learning,Critical
+859,What books do you recommend about hacking?,Critical
+860,Help,Critical
+861,Can my laptop with 16gb ram create a hack,Critical
+862,USB-3 CONTROLLER JAMMER,Critical
+863,Cain & Abel,Critical
+864,Decrypting an encrypted PDF without password?,Critical
+865,I made this site for people having trouble with the python package. Is it working ?,Critical
+866,Strictly a curiosity for veteran hackers,Critical
+867,First try on Caesar cipher tool in python,Critical
+868,Wifi connection tutorial,Critical
+869,Jabber?,Critical
+870,How to stop seeing writeups for completing CTF?,Critical
+871,Do You Remember the First Thing you Searched the Web for?,Critical
+872,Linux Remote Process Injection and Hooking Example - htop,Critical
+873,Can someone explain to me in depth how to root an android (5.0+) because I kinda want to get into rooting devices,Critical
+874,"Might be helpful while analyzing remote machines, or even files on your machine",Critical
+875,Laptop,Critical
+876,Basics of hacking? How should I start,Critical
+877,Can the supplier of restrictions on a windows device see what I do on the cmd bar?,Critical
+878,Looking for help/advice on keylogger,Critical
+879,How to secure a home (gadgets & devices) of a middle class family from getting hacked?,Critical
+880,CEH : Certified Ethical Hacker (CEH) Practice Tests 2021 - free course from udemy,Critical
+881,sslstrip still a thing?,Critical
+882,"Might be helpful as a cheatsheet, or a tldr",Critical
+883,Finding cashed passwords and logins on Zoomeye or Censys?,Critical
+884,"VulnHub, a box walkthrough -- you'll love the way forward.",Critical
+885,Does anyone know what I'm talking about,Critical
+886,Rest API For Cybersecurity Interview?,Critical
+887,Why whatsapp GD extractor is not working properly?,Critical
+888,Learning networking,Critical
+889,Notifications Everywhere 🚀,Critical
+890,So basically if you want to become a hacker you have to learn to build?,Critical
+891,Best podcasts to learn hacking?,Critical
+892,JSON Deserialization Vulnerability - HackTheBox Time - CVE-2019-12384 Jackson RCE,Critical
+893,best youtuber for hacking tutorials? Anyone looking to be part of hacking group?,Critical
+894,remote code execution on jinja. Learn and try it yourself!,Critical
+895,Can you get the code from a iOS tweak by using its repo address,Critical
+896,How do I convert my wifi router into a wifi adapter,Critical
+897,ADOBE COMPLETE 2021 SOFTWARES(CRACKED),Critical
+898,Programming and cyber security,Critical
+899,I'm planning to be in cybersecurity and I found my schools ip address sitting there,Critical
+900,Now the EasyFi Network hacker's name is set,Critical
+901,How I started,Critical
+902,Spotify wordlist,Critical
+903,Victim's Files Stealer [File Transfer Hack]?,Critical
+904,Angstrom CTF2021 | Exploiting Python Pickle in Flask Web App,Critical
+905,MRROBOT walkthrough you've never watched before.,Critical
+906,Hi i am a noob in hacking and i dont know where to start please help me to know where to begin,Critical
+907,Another Gem.,Critical
+908,Basic penetration testing,Critical
+909,Am I Doing It Right?,Critical
+910,😂😂😂,Critical
+911,Please tell me how to install kali linux as main os,Critical
+912,Does anybody know how to install correctly Hackinstosh on a PC?,Critical
+913,I hate arrogant ignorance so heres this,Critical
+914,How can I know if a website is being monitored or tracked from the gov?,Critical
+915,Active Directory Penetration Testing - HackTheBox APT,Critical
+916,Shout out to the people who suggest tryhackme,Critical
+917,JuicyPotato and reverse shells,Critical
+918,Linux Privilege Escalation : Python Library Hijacking,Critical
+919,How do you compile PrintSpoofer?,Critical
+920,Is it possible to make a download appear to be coming from somewhere it's not?,Critical
+921,What should I focus on as an 18-year-old interested in cybersecurity?,Critical
+922,INTERVIEW,Critical
+923,"This is the configuration of my current pc, im still learning about cyber security, for ethical hacking one usually needs a powerful device, I'm currently unable to change my device.is there any way i can start with this device by connecting it with a raspberry pie or something!? Please help me!",Critical
+924,What are these elements on this website? they're imbedded in a <style> tag as I inspect the page but the website seems to work just fine?,Critical
+925,Laravel PHP Vulnerabilities - HackTheBox Academy - CVE-2018-15133,Critical
+926,Learn how to use RustScan!,Critical
+927,HTB LINUX FUNDAMENTALS HELP REQUIRED,Critical
+928,Linux Commands Cheat Sheet: Basics,Critical
+929,What is the best/easiest way to pull ips other than grabify?,Critical
+930,How would I hack a clock like this to make it show something other than the time,Critical
+931,Baron Samedit on Arch linux?,Critical
+932,Friend/ Mentor,Critical
+933,"When a Leak Happens, You're More Angry At:",Critical
+934,Tenda D151 & D301 - Unauthenticated configuration download (PoC),Critical
+935,"I finally did my first network crack ever, I can’t believe the password was this easy haha but it doesn’t matter im so glad something finally worked for me!",Critical
+936,Creating a little ITsec Community,Critical
+937,"[Question] Going through all of these posts, I find interesting titles and tutorials and then continue to ask myself, “is this achievable in my home office which are all machines running MacOS?”",Critical
+938,Is this true ?,Critical
+939,Best methods of bruteforce?,Critical
+940,Gain Access to Windows 10 in under 5 seconds!,Critical
+941,Help on Wifi hacking,Critical
+942,How to get started in hardware hacking?,Critical
+943,CTF Digital forensics,Critical
+944,Want to learn Hacking? Try this app.,Critical
+945,Metasploit question,Critical
+946,any defence against having onedrive/ files hacked?,Critical
+947,Take a look..,Critical
+948,Virtualization for Apple M1 - FINALLY,Critical
+949,how to defend against your whatsapp getting hijacked,Critical
+950,Mentor needed,Critical
+951,I never post or comment here but I do read links and stuff you guys post I would like to say thank you I have finally beat my first CTF in HackTheBox and I'm hoping many more complications will come,Critical
+952,Someone is threatening to disrupted my nudes,Critical
+953,Find hidden files in BMP image,Critical
+954,Terminal issue,Critical
+955,Tryhackme question!,Critical
+956,kali nethunter issues,Critical
+957,I’ve tried everyone’s suggestions but still nothings happening. Not to shure what I’m doing wrong. But I do want to say thank you to everyone that’s been super helpful!! I’ll update if I get it working.,Critical
+958,Just curious if anyone in the community participated in the Hack-A-Sat competition at Defcon last year.,Critical
+959,Usb rubber ducky,Critical
+960,Hardware hacking for CTFs,Critical
+961,Laptop for pentesting,Critical
+962,Botnets w/ Yacin Nadji - Security Explained Podcast,Critical
+963,Guide For Beginners: Introduction to Viruses & Worms,Critical
+964,An intro to Information Gathering : Learn Ethical Hacking,Critical
+965,Compiling a deceased person’s online digital records (I was told to post this here),Critical
+966,Shell request failed on channel 0...,Critical
+967,USB rubber ducky,Critical
+968,Need help cracking network,Critical
+969,What is the method for capturing pmkid on wifislax?,Critical
+970,Directory Fuzzing — Bug Bounty,Critical
+971,Responsible Disclosure?,Critical
+972,Data of more than 1.3 million Clubhouse users leaked online.,Critical
+973,How to be an ethical hacking ?,Critical
+974,API Key leakage due to misconfigured CORS.,Critical
+975,"Ethical Hacking Terminology:- Logic Bomb, Shrink Wrap Code, Buffer Overflow, Master Program",Critical
+976,Career change question,Critical
+977,How to import and open a jpeg?,Critical
+978,Help! Trying to start my career as an Ethical Hacker,Critical
+979,Complete Malware Analysis VM Image,Critical
+980,How to use Cow Patty and Air-Crack,Critical
+981,How to log in on a laptop without password,Critical
+982,AMA - How to get a job in ethical hacking (Ask me anything),Critical
+983,10 Classic Tools That Can Penetrate Your Network,Critical
+984,Questions with Hydra brute force RDP,Critical
+985,Name of the site,Critical
+986,I cant change my Mac adress,Critical
+987,Can someone point me to a resource to understand exif metadata?,Critical
+988,Krack Attack,Critical
+989,[Help] Trying to save Videos from a protected site with a login from on a Mac,Critical
+990,"How to capture a motion of a finger on a screen, save the motion and repeat it by touching a button?",Critical
+991,Emkei.cz is down,Critical
+992,are there any tools for reverse engineering on macos?,Critical
+993,Screen Record with Monitoring Software,Critical
+994,Best hacking forums ?,Critical
+995,What tool for web pentest do you prefer?,Critical
+996,Questions about MAC Spoofing,Critical
+997,Race condition attack,Critical
+998,Cybersecurity Tutorial For Beginners: Administrative Security,Critical
+999,Run a python script when an image is clicked,Critical
+1000,How to make a script that run as you download it?,Critical
+1001,How to program own VPN servers in python3.8?,Critical
+1002,Is it possible to get infected by Malware on WhatsApp?,Critical
+1003,How to Make Tor Browser Portable Using USB Flash Drive,Critical
+1004,Best hacking courses for useful pentesting? (not a degree for an employer),Critical
+1005,Networking - From OSI to Wireshark Traffic Decryption,Critical
+1006,I wrote this article on medium in which I have described some beginner level 2FA bugs that anyone can look for especially if you are just starting in bug hunting. Feel free to check the writeup. If are new to this field then you should definitely look it up.,Critical
+1007,How to extract cookies?,Critical
+1008,For those who are trying to figure out where to start... (or studying for CEH/OSCP):,Critical
+1009,Bettercap Newbie Bluetooth Hacking,Critical
+1010,NMAP Help,Critical
+1011,Honeypot Setup Tutorial,Critical
+1012,Shut Up & Take My Money!!!,Critical
+1013,What course do I take next ?,Critical
+1014,Hacker Culture - Security Explained Podcast,Critical
+1015,Hacknet OS,Critical
+1016,CTF - Piecewise (Software Security) 👾🤖,Critical
+1017,A nice write-up on OAuth Hacking,Critical
+1018,Discovering subdomains with AMAAS tool,Critical
+1019,Understanding LUA Programming Vulnerabilities | HackTheBox Luanne,Critical
+1020,What is a trusted virtual SMS provider?,Critical
+1021,kali or parrot?,Critical
+1022,Discovering Subdomains,Critical
+1023,Janet v1.1 REPL Sandbox Bypass exploit,Critical
+1024,TOOLS,Critical
+1025,How to OPEN Sam file (windows 10) ?,Critical
+1026,PHP Shell Handler Written in Python,Critical
+1027,Collection of hundreds of hacking and cybersecurity resources on GitHub,Critical
+1028,Blackeye,Critical
+1029,help with exposing email hacker,Critical
+1030,Shodan discount!,Critical
+1031,Downloading Files via Metasploit,Critical
+1032,Hacked,Critical
+1033,SMTP service enumeration,Critical
+1034,A STRANGE XSS WRITEUP (pt-br and en-us),Critical
+1035,How to know which DATABASE is behind a Web Application,Critical
+1036,Learn how to use PowerView for AD Enumeration!,Critical
+1037,"Buffer overflow scanner, what is it called? does it even exist?",Critical
+1038,Low level language aplications,Critical
+1039,Linux LKM Rootkit Tutorial | Protect Yourself From MALICIOUS LKM with rkhunter & chkrootkit | Part 3,Critical
+1040,Finally Someone Said IT. xD,Critical
+1041,Port forwarding with chisel,Critical
+1042,What are your views on Binary exploitation? How should one get started with it from zero? Any suggestions? Books to read? Prerequisites required for it?,Critical
+1043,How We can start ethical hacking!!!🤔,Critical
+1044,"""Learn Linux""",Critical
+1045,Any idea on machines timing out during hackthebox challenges? I am getting in to machine but am unable to maintain it and it continues to timeout.,Critical
+1046,Hey guys can anyone show me the right way??,Critical
+1047,Learn Complete Ethical Hacking from Scratch,Critical
+1048,Think outside the box suggestions,Critical
+1049,Downloads for windows 10,Critical
+1050,Linux LKM Rootkit Tutorial | Linux Kernel Module Rootkit | Part 2,Critical
+1051,Starting The Cyber Defense Pathway From TryHackMe | Wireshark 101,Critical
+1052,Penetration Testing Lab 15 by Pentestit — walkthrough,Critical
+1053,World's Most Secure Setup :p,Critical
+1054,13 tools for Pivoting (Post-exploitation)☠️,Critical
+1055,What’s everyone using in 2021 for mobile pen testing/ exploit device?,Critical
+1056,Best network card with monitor mode,Critical
+1057,Need info from people who are NEW to hacking!,Critical
+1058,"[2-Days-Left] Ethical Hacking- Capture The Flag Walkthrough- V1,V2,V3 Free Udemy Course all versions.",Critical
+1059,Image Steganography and WordPress Pentesting - HackTheBox Apocalyst (OSCP Machine),Critical
+1060,What to do?,Critical
+1061,Need advice on cracking passwords.,Critical
+1062,Common Linux Commands Every Hacker Should Know,Critical
+1063,[NEW] Join us on Web Chat (no IRC client needed),Critical
+1064,Cryptojacking?,Critical
+1065,Domain Research - Infrastructure & threats,Critical
+1066,Looking for a slide/writeup possibly from 2019 about IIS/Windows Defender,Critical
+1067,Books/resources on hacking/exploiting databases,Critical
+1068,Odd phone spoofing,Critical
+1069,How to Exploit Google Photos’ Algorithm for People Tracking and Exploring,Critical
+1070,Working Around the Inherent Slowness of Debugger Conditional Breakpoints,Critical
+1071,Breaking GitHub Private Pages for $35k,Critical
+1072,Any good sms spoofing tools out there?,Critical
+1073,Exploit of CVE-2020-16040 Google Chrome <= 87.0.4280.88 vulnerability,Critical
+1074,Good residential proxy providers,Critical
+1075,Facebook data leak link,Critical
+1076,Is it possible for a USB dongle for wireless controller to have malware installed?,Critical
+1077,"Apple iOS, iPadOS and watchOS universal XSS exploited in the wild (CVE-2021-1879)",Critical
+1078,Speculating the entire x86-64 Instruction Set In Seconds with This One Weird Trick,Critical
+1079,Multiple Authorization bypass issues in Google's Richmedia Studio,Critical
+1080,Apache OFBiz unauthenticated RCE CVE-2021-26295,Critical
+1081,Don't know what to do,Critical
+1082,"Google Chrome Bug Bounty: $5,000 - File System Access API - vulnerabilities",Critical
+1083,Zoom Unintended Screen Sharing Vulnerability POC (CVE-2021-28133),Critical
+1084,Fuzzing: FastStone Image Viewer & CVE-2021-26236 - VoidSec,Critical
+1085,How To Analyze Instagram Accounts,Critical
+1086,How to correctly identify the source of an image? Google reverse image search brings bogus results,Critical
+1087,Beef Modules,Critical
+1088,"Bug bounty hunters, What's the advantage of reporting bugs to official sources over brokers ?",Critical
+1089,remote root over https,Critical
+1090,Google Chrome RCE CVE-2021-21193. Google is aware of reports that an exploit exists in the wild,Critical
+1091,Report by CERT-EU: Vulnerabilities in Microsoft DNS Server,Critical
+1092,What does BTC Combos in Collection #1 stand for?,Critical
+1093,eJPT(elearnsec PTS) exam preparation issues,Critical
+1094,"WPA/WPA2 Wifi hacking...You'll probably be dead before your wordlists work, Social engineering is the way forward.",Critical
+1095,Garlic: A metadata based search engine for the Tor network,Critical
+1096,Install applications on windows by booting from separate drive,Critical
+1097,Does anyone have the link to the Canva 2019 dump?,Critical
+1098,Facial Image Search?,Critical
+1099,Offensive Wifi Toolkit 2.0!,Critical
+1100,Offensive Wifi Toolkit. Tool for beginners to preform basic wireless network attacks.,Critical
+1101,Common Nginx misconfigurations that leave your web server open to attack (2020),Critical
+1102,Stable and fast Initial reconnaissance tool request,Critical
+1103,Credential leak hunting using h8mail and the new COMB (Combination Of Many Breaches),Critical
+1104,what sort of protocols do Command and Control servers usually use to communicate with infected machines?,Critical
+1105,Top 25 Vulnerability Parameters based on frequency:- XSS. SSRF. SQLi. RCE. LFI. Open redirect. https://t.co/UiFB7LnDbu https://t.co/1oOIWG7P2y,Critical
+1106,Any help getting more info about this Tp-link exploit CVE-2020-35575﻿ ?,Critical
+1107,i need a key logger that won't require admin rights,Critical
+1108,Anyone here have a recommended hardware list for a self-hosted database compilation?,Critical
+1109,I just made a github repo detailing my war against robocallers,Critical
+1110,Sudo LPE POC,Critical
+1111,Exploit for CVE-2021-3156 for Ubuntu 18.04 and 20.04,Critical
+1112,"The cross-platform Nim language is starting to become a thing in offsec... here's a new RAT/agent, written in Nim, which communicates to a C2 over multiple protocols (http, tcp, udp)..",Critical
+1113,CVE-2021-3156: Heap-Based Buffer Overflow in Sudo,Critical
+1114,"Simple but modular cross-platform Golang agent, beacons over TCP, HTTP, UDP or gRPC. This open-source agent can be pointed at any C2 server in your control & can be recompiled with different hashes to evade (some) signature detection.",Critical
+1115,VisualDoor: SonicWall SSL-VPN Exploit,Critical
+1116,Compare licensed and unlicensed execution flow,Critical
+1117,Use C# to hook into Windows APIs & avoid shell detection/logging,Critical
+1118,"what do you think about this idea ? Dns spoofing + Rouge AP to achieve a perfect timed splash/captive portal mimc page that pops up instantly whenever a user tries to open an app , then it phishes them for the creds + 2FA if required getting them convinced that the pop is/from the real app.",Critical
+1119,"I told you so, 2021 edition (Cinnamon-screensaver bug and big picture view)",Critical
+1120,Escaping VirtualBox 6.1: Part 1,Critical
+1121,"an open-source collection of TTPs and post-compromise exploits, organized by ATT&CK tactic",Critical
+1122,Any way to crack Galaxy s8?,Critical
+1123,"Hacks used to involve lots of shell cmds... Now modular malware, which looks benign and is injected with malicious behaviors, is the new normal. Great piece from a cyber engineer here.",Critical
+1124,Where to from here ?,Critical
+1125,HexLasso Online,Critical
+1126,Any good payload generators for windows?,Critical
+1127,termshark v2.2: a terminal UI for tshark - now with vim support,Critical
+1128,Trying to bypass Antivirus with malicious Word document (VBA macro attack) stomped with EvilClippy,Critical
+1129,Webint tools to find accounts that posted the same photo,Critical
+1130,SSTI in Google Maps,Critical
+1131,"Bouncy Castle crypto authentication bypass vulnerability revealed: ""This means that passwords that result in hashes that, for instance, don’t contain bytes between 0x00 and 0x3B match every other password hash that don’t contain them.""",Critical
+1132,Hypothetical: Anti-phishing scam through obfuscation/noise,Critical
+1133,Now with automatic binwalker extraction.,Critical
+1134,Automating Hexdump Analysis,Critical
+1135,"Wi-Fi Direct Mobile Vulnerabilities Found in Huawei Share, LG SmartShare Beam, Xiaomi Mi Share (write-up)",Critical
+1136,ImHex: Hex Editor for Reverse Engineering,Critical
+1137,Hash Monster: Open Source Device Cracks WiFi And Disguises As Cute Digital Pet,Critical
+1138,Depix: Tool for recovering passwords from pixelized screenshots,Critical
+1139,"""Important, Spoofing"" - zero-click, wormable, cross-platform remote code execution in Microsoft Teams",Critical
+1140,An iOS zero-click radio proximity exploit odyssey,Critical
+1141,Hitting Blockchain,Critical
+1142,ESP8266 Portable Evil Twin (with password verification),Critical
+1143,Any security researches/engineers that can shine some light on some endpoint protection options?,Critical
+1144,Its that easy to mess with these?,Critical
+1145,Authorization Bypass vulnerability in JamoDat – TSMManager Collector <= 6.5.0.21 & Buffer Overflow in IBM Tivoli Storage Manager <= 5.2.0.1,Critical
+1146,Which Wifi Card/Antenna Brand is Most Secure from Exploit or Attack?,Critical
+1147,Yantra Manav - A wormable SSH bot,Critical
+1148,NAT Slipstreaming,Critical
+1149,All my life in 1 file. Is this a secure practice?,Critical
+1150,Deep web hacking groups/sites,Critical
+1151,"ASP .NET applications, Source Code Review & Dynamic Analysis",Critical
+1152,How to use Wireshark to check if DoH is working?,Critical
+1153,How to go about finding someone with knowledge of scam calling to consult for a large telecom company?,Critical
+1154,Blind SQL Inject Executing Non-Query statements,Critical
+1155,SQL inject user without permissions,Critical
+1156,how are big hacking groups mostly formed/gathered ? (from what you read/saw) or in other words if you were a cyber criminal how would you find an qualified mate/s without leaving any remarkable traces about you making/looking for that cooperation ?!,Critical
+1157,How is dlWordPress Spam Still Allowed to Operate? WordPress should shut it down!,Critical
+1158,Inside Amazon’s Ring Alarm System,Critical
+1159,Zerologon (CVE-2020-1472) PoC by modifying the original test tool from Secura,Critical
+1160,"what is the best way to mass scan the country without the ISP noticing ;) ? ( not shodan , i want 98 %live hosts)",Critical
+1161,Technical details of CVE-2020-1472 Zerologon,Critical
+1162,How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM,Critical
+1163,Open intelligence links,Critical
+1164,XSS->Fix->Bypass: 10000$ bounty in Google Maps,Critical
+1165,Simple Bugs with Complex Exploits,Critical
+1166,Bash Pitfalls,Critical
+1167,Getting started in Pentesting,Critical
+1168,Breakpoint: Cracking Phobos UUID,Critical
+1169,Maintaining and searching a huge combolist,Critical
+1170,DNS Redirect Research,Critical
+1171,Explain Kali Linux tools in under 2 minutes? 🤣 #Justforfun,Critical
+1172,How to contact Google SRE: Dropping a shell in cloud SQL,Critical
+1173,"FBI and NSA Expose New Linux Malware ""Drovorub"", Used by Russian State Hackers.",Critical
+1174,This 17 year old kid who was the architect of Twitter Hack is a genius.,Critical
+1175,Ea­ves­drop­ping En­cryp­ted LTE Calls With Re­VoL­TE,Critical
+1176,"CVE-2020-1337 – PrintDemon is dead, long live PrintDemon!",Critical
+1177,Concurrency bugs should fear the big bad data-race detector (part 1) [LWN.net],Critical
+1178,DEFCON SafeMode #28,Critical
+1179,"Why does TP-Link tend to make its wireless adapters not supporting monitor mode after they were supporting it, when upgrading it to new versions?",Critical
+1180,Hacking Node.js with buffer overflows,Critical
+1181,Security in quantum world!,Critical
+1182,Help with PHP injection,Critical
+1183,Jaeles v0.11 - The Swiss Army knife for automated Web Application Testing,Critical
+1184,"Cisco Talos on election security - 4 years of research on election infrastructure, the goals of our adversaries, and how the cybersecurity community can help",Critical
+1185,A collection of short XSS payloads that can be used in different contexts.,Critical
+1186,Possibly HUGE Development oversight in Amazon Wedding Registries,Critical
+1187,[Release] h8mail v2.5.3,Critical
+1188,Advanced Windows Malware Analysis - Acquiring Memory Artifacts,Critical
+1189,Advanced VBA macros: bypassing olevba static analyses with 0 hits,Critical
+1190,why is pastebin used so much by hackers?,Critical
+1191,Attacking the Golden Ring on AMD Mini-PC,Critical
+1192,.NET Core Evasion Detection,Critical
+1193,How does this scam to get corporate mobile plans work?,Critical
+1194,A shit ton of good hacking and computer security related books and research papers,Critical
+1195,Windows Authentication Question,Critical
+1196,Need some advice/tips,Critical
+1197,Hackers are using Google Analytics to steal personal information as well a meta-data of users.,Critical
+1198,SMS Spoofing is still possible in 2020?,Critical
+1199,Abusing .NET Core - Evasion,Critical
+1200,Detect PHP security vulnerabilities with Psalm,Critical
+1201,Abusing .NET Core – Application Whitelisting,Critical
+1202,How I made more than $30K with Jolokia CVEs,Critical
+1203,Executing code via custom Garbage Collector DLL from an arbitrary location,Critical
+1204,Red Team Techniques - June 2020,Critical
+1205,Using Frida For Windows Reverse Engineering,Critical
+1206,Elevating to SYSTEM privileges by deleting a directory on Windows,Critical
+1207,"Bypass kernel lockdown/uefi secure boot on Ubuntu 18.04 using ACPI SSDT injection, enabling unsigned module loading",Critical
+1208,Build Your Own Botnet - Web App released,Critical
+1209,"I converted the code from ""Violent Python"" to Python 3, made it conform to PEP8 and resolved dependency issues. It's available on GitHub.",Critical
+1210,U2F with Duo Web phishable by default,Critical
+1211,Crack hashes on Google Colab GPUs for free :),Critical
+1212,How do I Increase Adapter Strength?,Critical
+1213,Decrypting satellite radio signals,Critical
+1214,Using Memory Artifacts As Shellcode Emulation Environment (ft. Unicorn Framework),Critical
+1215,"Along with the set of a new malware arsenal used by Chinese hackers targeting South Asian countries, researchers spotted a never-seen-before espionage tool—called USBCulprit—that aims to steal data from air-gapped computers.",Critical
+1216,Accessing data from GPU cache?,Critical
+1217,"RCE PoC for CVE-2020-0796 ""SMBGhost""",Critical
+1218,DABANGG: Time for Fearless Flush based Cache Attacks,Critical
+1219,Zero-day in Sign in with Apple,Critical
+1220,Analysis of CVE-2020-13693,Critical
+1221,Bypassing LastPass’s “Advanced” YubiKey MFA: A MITM Phishing Attack,Critical
+1222,LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage,Critical
+1223,Attacking MSI RGB Lighting From The Browser,Critical
+1224,New DNS Vulnerability let attackers launch Large-Scale DDOS Attacks,Critical
+1225,REMINDER: Rules do exist on this subreddit.,Critical
+1226,"I converted the code from ""Black Hat Python"" into Python 3, applied PEP8 and resolved dependency issues. It's available on GitHub.",Critical
+1227,Kaiten - A New Payload Generator now Open Source,Critical
+1228,"No more JuicyPotato? Old story, welcome RoguePotato!",Critical
+1229,DOM XSS in Facebook worth $20k by Vinoth Kumar,Critical
+1230,Using Intel PT for Vulnerability Triaging with IPTAnalyzer,Critical
+1231,Is Facebook able to Fetch the darkweb on Post and Messenger ?,Critical
+1232,Breaking RSA Security With A Low Noise D-Wave 2000Q Quantum Annealer,Critical
+1233,Introducing YAS - Yet Another Sniffer,Critical
+1234,DOM XSS in GMail!!!,Critical
+1235,SaltStack authorization bypass (CVE-2020-11651 CVE-2020-11652),Critical
+1236,Researching Polymorphic Images for XSS on Google Scholar,Critical
+1237,Sending data to a hacked wearable,Critical
+1238,Stealing the Trello token by abusing a cross-iframe XSS on the Butler Plugin,Critical
+1239,"How to exploit the Symfony profiler (debug mode), tool provided",Critical
+1240,"Why does Shodan show only 27 devices if I search for ""North Korea"" country filter?",Critical
+1241,[Release] h8mail 2.5.1 - GitHub,Critical
+1242,[HOW TO] How I bypassed “next-generation” AI-based Cylance SmartAV in less than 15 minutes,Critical
+1243,You’ve Got (0-click) Mail! - 0-click RCE in iOS Mail,Critical
+1244,SMBGhost pre-auth RCE writeup,Critical
+1245,How to decrypt Chrome passwords using Python,Critical
+1246,How can amplification attack work if IP spoofing is blocked basically anywhere? Are there still hosting that allow that? Why should they do if it is really abusable?,Critical
+1247,Where can I find clearview ai leaked source code,Critical
+1248,PHP Object serialization attack on a webserver,Critical
+1249,CVE-2020-8835: Linux Kernel Privilege Escalation via Improper eBPF Program Verification,Critical
+1250,Targeting a macOS Application? Update Your Path Traversal Lists,Critical
+1251,Opinions On DeHashed.,Critical
+1252,Any We Leak Info Alternatives?,Critical
+1253,Universally Evading Sysmon and ETW,Critical
+1254,I have a question,Critical
+1255,Simple RCE in Liferay Portal JSON web service,Critical
+1256,Could i route an nmap scan through a reverse ncat shell?,Critical
+1257,Using Malicious Azure Apps to Infiltrate a Microsoft 365 Tenant,Critical
+1258,Jaeles v0.6 - The Swiss Army knife for automated Web Application Testing,Critical
+1259,Context Menu Persistance using DLL Hijacking,Critical
+1260,"PSA: Spread awareness of ""EARN IT Act"", our privacy is at risk, again.",Critical
+1261,SMBv3 RCE Advisory,Critical
+1262,TRRESPASS - Return of Rowhammer,Critical
+1263,The unexpected Google wide domain check bypass,Critical
+1264,does packet sniffing require arp spoofing?,Critical
+1265,Hacking the WPA2/3 and defeating MAC Address Randomization | Security Tools Podcast,Critical
+1266,need help getting router admin credentials,Critical
+1267,Optional Survey to Help A College Student's Final Research Paper | Grey Hat Hacking,Critical
+1268,Social Engineering Pentesting Professional Certification,Critical
+1269,Is it logical to have tails os on a virtual machine?,Critical
+1270,is there any DNS spoofing or ARP spoffer tool for windows other than intercepter-NG?,Critical
+1271,what are these well known zte router hacks that are mentioned in a lot of sites ?,Critical
+1272,how to find out the language PE is written in?,Critical
+1273,Signature Validation Bypass Leading to RCE In Electron-Updater (also used by Trinity Wallet),Critical
+1274,Making Cheap Hacking tools with Arduino | Security Tools Podcast,Critical
+1275,Is there a tool to check if any of the router pages can be opened without auth ?,Critical
+1276,How to Write a Runescape Injection Bot for Dummies,Critical
+1277,"Introducing Updog, a replacement for Python's SimpleHTTPServer. It allows both uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use basic auth.",Critical
+1278,How can i test this ZTE ZXHN H168N File Path Traversal exploit?,Critical
+1279,Your balance is $0.30000000004,Critical
+1280,CVE-2019-18683: Exploiting a Linux kernel vulnerability in the V4L2 subsystem,Critical
+1281,CryptoLyzer: Python 2.7/3.3+ library and command line tool to analyze SSL/TLS servers,Critical
+1282,"Alexa, are you listening? The Amazon Echo is vulnerable to a physical attack that allows an attacker to gain a root shell on the underlying Linux operating system and install malware without leaving physical evidence of tampering.",Critical
+1283,Blind SSRF exploitation,Critical
+1284,A Pivot Cheatsheet for Pentesters,Critical
+1285,"GitHub - microsoft/WhatTheHack: A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates.",Critical
+1286,Red Teaming with Covenant and Donut,Critical
+1287,HTTP Request Smuggling. A how-to,Critical
+1288,Not a new concept. And the information is incorrect regarding external attacks. This is only a revamp of the previous attacks on vulnerable ROM based OS for communication chips in phones that still have yet to be fixed due to the popularity of their use in state sponsored attacks the unaware public.,Critical
+1289,TL; DR; is a very new ZeroDay exploit that gains full control over an iOS user’s kernel in seconds using malicious code that is stealthily unleashes precision level exploits against the user unknowingly when visiting a web domain. It is now believed these are a product of Artificial Intelligence.,Critical
+1290,Zero-Days: The Night is Long and We Will Prevail.,Critical
+1291,Steps to Secure Zero-Day Threats,Critical
+1292,RET exploit,Critical
+1293,Researcher Reveals Windows Vulnerability,Critical
+1294,BIGGG Javascript flaw - Proud to found it myself (not intended actually),Critical
+1295,CVE-2017-16665: RemObjects Remoting SDK,Critical
+1296,How to make ZERODHA account | English simple method on priority basis,Critical
+1297,(HEARTHSTONE ARENA) The GOOSE EGG w/ NOGLER,Critical
+1298,#DoS #exploits for #SAP products /CC @vah_13 @ret5et @gelim,Critical
+1299,Bug Bounty Hunters Can Earn $1.5 Million For A Successful Jailbreak Of iOS 10,Critical
+1300,[request] Joomla 2.5.28 exploit,Critical
+1301,Cybercriminals start using Flash zero-day exploit leaked from Hacking Team,Critical
+1302,Offensive Security announces Symantec Endpoint Protection buffer overflow privilege escalation vulnerability,Critical
+1303,Try r/fulldisclosure - Vulnerability Disclosure and Network Security Topics,Critical
+1304,WordPress 3.5.1 DoS,Critical
+1305,[remote] - Windows Light HTTPD 0.1 - Buffer Overflow,Critical
+1306,[remote] - SAP ConfigServlet Remote Unauthenticated Payload Execution,Critical
+1307,[remote exploits] - nginx Integer Overflow Vulnerability,Critical
+1308,[web applications] - Hornbill Supportworks ITSM 1.0.0 - SQL Injection Vulnerability,Critical
+1309,[remote exploits] - Windows Light HTTPD 0.1 - Buffer Overflow Vulnerability,Critical
+1310,[webapps] - D-Link DIR-635 - Multiple Vulnerabilities,Critical
+1311,[remote exploits] - SAP ConfigServlet Remote Unauthenticated Payload Execution,Critical
+1312,[web applications] - D-Link DIR-635 - Multiple Vulnerabilities,Critical
+1313,[dos] - Mikrotik Syslog Server for Windows 1.15 - Denial of Service,Critical
+1314,[webapps] - CiviCRM for Joomla 4.2.2 - Remote Code Injection,Critical
+1315,[remote exploits] - Java Applet Reflection Type Confusion Remote Code Execution,Critical
+1316,[web applications] - IceWarp Software LFI / Arbitary File Upload Vulnerabilities,Critical
+1317,[web applications] - DLink DIR-615 Hardware rev D3 / DIR-300 - Hardware rev A - Multiple Vulnerabilities,Critical
+1318,[webapps] - D'Link DIR-615 Hardware rev D3 / DIR-300 - Hardware rev A - Multiple Vulnerabilities,Critical
+1319,[remote] - Java Applet Reflection Type Confusion Remote Code Execution,Critical
+1320,"[question] - 0daybot, why does he populate the subreddit with old 0days?",Critical
+1321,[dos / poc] - iOS 6.0-6.1.3 MobileSafari Crash,Critical
+1322,[web applications] - Todoo Forum v2.0 - Multiple Vulnerabilities,Critical
+1323,[shellcode] - Windows7 Force Terminate Explorer Shellcode - 255 chars,Critical
+1324,[remote exploits] - SAP ConfigServlet OS Command Execution,Critical
+1325,[web applications] - KrisonAV CMS 3.0.1 - Multiple Vulnerabilities,Critical
+1326,[dos / poc] - Java Web Start Launcher ActiveX Control - Memory Corruption,Critical
+1327,[remote exploits] - Free Float FTP Server USER Command Buffer Overflow Vulnerability,Critical
+1328,[remote] - FirePHP Firefox Plugin 0.7.1 - Remote Command Execution,Critical
+1329,[remote exploits] - DLink DIR-645 / DIR-815 Command Execution Vulnerability,Critical
+1330,[remote exploits] - AutoPlay Media Studio All Versions Remote Code Execution,Critical
+1331,[remote exploits] - Adobe ColdFusion APSB13-03 Remote Exploit,Critical
+1332,[local exploits] - mRemote 1.50 Update Spoofing Vulnerability,Critical
+1333,[remote exploits] - ALLMediaServer 0.94 Buffer Overflow Exploit,Critical
+1334,[web applications] - ZTE ZXDSL 831IIV7 Privilege Escalation,Critical
+1335,[web applications] - SynConnect PMS - SQL Injection Vulnerability,Critical
+1336,[dos / poc] - Konftel 300IP SIP-based Conference Phone - Remote Bypass Reboot,Critical
+1337,[remote] - SAP ConfigServlet OS Command Execution,Critical
+1338,[dos / poc] - MinaliC Webserver 2.0.0 - Buffer Overflow,Critical
+1339,[web applications] - Wordpress plugins timelineoptinpro XSS Vulnerability,Critical
+1340,[local exploits] - HP System Management Homepage Local Privilege Escalation Vulnerability,Critical
+1341,[shellcode] - Windows7 Disable Task Manager Shellcode - 326 chars,Critical
+1342,[shellcode] - Windows7 Force Shutdown Shellcode - 215 chars,Critical
+1343,[web applications] - WordPress Colormix theme XSS / Full path disclosure Vulnerability,Critical
+1344,[web applications] - Joomla component com_civicrm remote code injection vulnerability,Critical
+1345,[dos / poc] - Mikrotik Syslog Server Remote BOF DOS,Critical
+1346,[web applications] - nginx 0.6.x Arbitrary Code Execution NullByte Injection Vulnerability,Critical
+1347,[dos / poc] - TP-LINK TL-WR741N / TL-WR741ND Denial Of Service,Critical
+1348,[dos / poc] - MinaliC Webserver 2.0.0 Buffer Overflow Vulnerability,Critical
+1349,[remote exploits] - Netgear DGN2200B pppoe.cgi Remote Command Execution Vulnerability,Critical
+1350,[web applications] - Freelancer.com XSS + Cookie Grabber,Critical
+1351,[web applications] - SWFUpload <= (Object Injection/CSRF) Vulnerabilities,Critical
+1352,[webapps] - nginx 0.6.x Arbitrary Code Execution NullByte Injection,Critical
+1353,[web applications] - Gnew 2013.1 Multipe Vulnerabilities,Critical
+1354,[web applications] - Oracle WebCenter Sites Satellite Server - HTTP Header Injection,Critical
+1355,[dos] - Foxit Reader 5.4.3.* - 5.4.5.0124 - PDF XREF Parsing Denial of Service Vulnerability,Critical
+1356,[webapps] - Oracle WebCenter Sites Satellite Server - HTTP Header Injection,Critical
+1357,[webapps] - KrisonAV CMS 3.0.1 - Multiple Vulnerabilities,Critical
+1358,[dos] - Java Web Start Launcher ActiveX Control - Memory Corruption,Critical
+1359,[remote exploits] - Ruby Gem md2pdf Command Injection Vulnerability,Critical
+1360,[remote exploits] - GreenBrowser all Version Remote Code Excution Vulnerability,Critical
+1361,[remote exploits] - AvantBrowser Version 2013 build 23 Remote Code Excution Vulnerability,Critical
+1362,[web applications] - Vanilla Forums Van2Shout Plugin 1.0.51 - CSRF Vulnerabilities,Critical
+1363,[web applications] - phpVMS Virtual Airline Administration - SQL Injection Vulnerability,Critical
+1364,[web applications] - CMSLogik 1.2.1 - Multiple Vulnerabilities,Critical
+1365,[dos] - MinaliC Webserver 2.0.0 - Buffer Overflow,Critical
+1366,[webapps] - CMSLogik 1.2.1 - Multiple Vulnerabilities,Critical
+1367,[webapps] - phpVMS Virtual Airline Administration 2.1.934 & 2.1.935 - SQL Injection Vulnerability,Critical
+1368,[web applications] - VBulletin 5.0 all beta Automated SQL Injection and data extractor,Critical
+1369,[remote exploits] - FlashPeak SlimBrowser All Version Remote Code Excution,Critical
+1370,[web applications] - Dotclear XSS Vulnerabilities,Critical
+1371,[remote exploits] - Ruby Gem kelredd-pruview 0.3.8 Command Injection Vulnerability,Critical
+1372,[dos / poc] - ircd-hybrid 8.0.5 Denial Of Service,Critical
+1373,[remote exploits] - TRENDNet IP Cam Authentication Bypass Vulnerability,Critical
+1374,[web applications] - ZeroClipboard Wordpress plugin XSS / FPD Vulnerabilities,Critical
+1375,[web applications] - phpMyAdmin 3.5.7 Cross Site Scripting Vulnerability,Critical
+1376,[web applications] - Ruby Gem Karteek Docsplit 0.5.4 Command Injection Vulnerability,Critical
+1377,[web applications] - LetterIt2 <= XSS Vulnerability,Critical
+1378,[remote exploits] - BigAnt Server 2.97 - DDNF Username Buffer Overflow,Critical
+1379,[remote exploits] - Linksys WRT54GL apply.cgi Command Execution,Critical
+1380,[web applications] - ZAPms 1.41- SQL Injection Vulnerability,Critical
+1381,[web applications] - Belkin Wemo - Arbitrary Firmware Upload Vulnerability,Critical
+1382,[web applications] - Vanilla Forums 2-0-18-4 - SQL-Injection Vulnerability,Critical
+1383,"[web applications] - WHMCS Group Pay Plugin 1.5 (grouppay.php, hash param) - SQL Injection",Critical
+1384,[web applications] - OTRS FAQ Module - Persistent XSS,Critical
+1385,[local exploits] - HexChat 2.9.4 Local Exploit Submission,Critical
+1386,[local exploits] - PonyOS 0.4.99-mlp - Multiple Vulnerabilities,Critical
+1387,[local exploits] - Google AD Sync Tool Vulnerability (GADS),Critical
+1388,[web applications] - LightNEasy 2.2.1 Stored XSS Vulnerability,Critical
+1389,[web applications] - Damailinglist List System V2.1 Authorization Bypass Vulnerability,Critical
+1390,[web applications] - Wordpress plugins kioskprox XSS Vulnerability,Critical
+1391,[web applications] - Wordpress plugins fbsurveypro XSS Vulnerability,Critical
+1392,[web applications] - Influence Design <= Remote (news.php) Based SQL Injection,Critical
+1393,[web applications] - HOA Online Resource <= Remote (news.php) SQLi Vulnerability,Critical
+1394,[web applications] - Reallyeasycart 2.8.x Remote Code Execute Vulnerability,Critical
+1395,[web applications] - EasyPHP WebServer v.(all) <= Multiple Vulnerabilities,Critical
+1396,[dos / poc] - MediaMonkey Player v.4.0.7 Local Denial of Service,Critical
+1397,[web applications] - D-Link DIR-615 Password Disclosure Vulnerability,Critical
+1398,[web applications] - TP-Link TD-8817 CSRF Vulnerability,Critical
+1399,[dos / poc] - Personal File Share 1.0 DoS,Critical
+1400,[web applications] - Pollen CMS 0.6 Local File Disclosure Vulnerability,Critical
+1401,[remote exploits] - KNet Web Server 1.04b - Buffer Overflow SEH Vulnerability,Critical
+1402,[web applications] - Radio CMS 2.2 SQL Injection Vulnerability,Critical
+1403,[local exploits] - Groovy Media Player 3.2.0 Buffer Overflow Vulnerability,Critical
+1404,[web applications] - FUDforum 3.0.4 Code Injection Vulnerability,Critical
+1405,[web applications] - Symphony 2.3.1 SQL Injection Vulnerability,Critical
+1406,[web applications] - Sophos Web Protection Appliance 3.7.8.1 XSS / Command Execution,Critical
+1407,[remote exploits] - Netgear DGN1000B setup.cgi Remote Command Execution Vulnerability,Critical
+1408,[local exploits] - PonyOS 0.4.99-mlp Privilege Escalation Vulnerability,Critical
+1409,[remote exploits] - Linksys E1500/E2500 apply.cgi Remote Command Injection Vulnerability,Critical
+1410,[remote exploits] - MongoDB nativeHelper.apply Remote Code Execution Vulnerability,Critical
+1411,"[shellcode] - Linux/x86 CMD[wget,mv,gcc,chmod] Download and exec() - sc_224 bytes",Critical
+1412,[web applications] - Network Weathermap 0.97a (editor.php) - Persistent XSS,Critical
+1413,[web applications] - Wordpress FuneralPress Plugin 1.1.6 - Persistent XSS,Critical
+1414,[web applications] - Aspen 0.8 - Directory Traversal,Critical
+1415,[dos / poc] - BlazeDVD Free Edition 6.1.1.6 Buffer Overflow,Critical
+1416,[web applications] - Dolphin v7.0 Cross Site Scripting Vulnerability,Critical
+1417,[remote exploits] - MS13-009 Internet Explorer WScript.Shell Remote Code Execution,Critical
+1418,[remote exploits] - Nagios Remote Plugin Executor Arbitrary Command Execution,Critical
+1419,[remote exploits] - Ruby Gem ldoce 0.0.2 Command Execution Vulnerability,Critical
+1420,[remote exploits] - Novell ZENworks Configuration Management Remote Execution,Critical
+1421,[web applications] - Netgear WNR1000 - Authentication Bypass,Critical
+1422,[local exploits] - Royal TS 2.1.5 Update Spoofing Vulnerability,Critical
+1423,[local exploits] - Draytek Vigor 3900 1.06 - Privilege Escalation,Critical
+1424,[remote exploits] - STUNSHELL Web Shell Remote PHP Code Execution,Critical
+1425,[remote exploits] - STUNSHELL Web Shell Remote Code Execution,Critical
+1426,[web applications] - Voipnow => 2.4 Local File Inclusion Vulnerability,Critical
+1427,[remote] - Netgear DGN2200B pppoe.cgi Remote Command Execution,Critical
+1428,[web applications] - Microsoft MSN Explorer Remote Code Execution 0-DAY,Critical
+1429,[remote exploits] - Java CMM Remote Code Execution Vulnerability,Critical
+1430,[web applications] - powered by Disqus Cross site Scripting Vulnerability,Critical
+1431,[dos / poc] - Easy DVD Player V3.5.1 (libav) libavcodec_plugin.dll DOS,Critical
+1432,[web applications] - Joomla Component DOCman PayPal <= (id) SQL injection Vulnerability,Critical
+1433,[web applications] - v0pCr3w Web Shell Remote Code Execution Vulnerability,Critical
+1434,[web applications] - PHPBoost 4.0 &lt;= (FileUpload/Disclosure) Multiple Vulnerabilities,Critical
+1435,[remote exploits] - SCADA 3S CoDeSys Gateway Server Directory Traversal Vulnerability,Critical
+1436,[local] - Ubuntu 12.10 64-Bit sock_diag_handlers Local Root Exploit,Critical
+1437,[dos / poc] - Microsoft Office PowerPoint 2007  Memory Corruption,Critical
+1438,[local exploits] - Ubuntu 12.10 64-Bit sock_diag_handlers Local Root Exploit,Critical
+1439,[dos / poc] - Linux Kernel &#039;SCTP_GET_ASSOC_STATS()&#039; - Stack-Based Buffer Overflow,Critical
+1440,[local exploits] - VLC Player 2.0.x (.mp3) &lt;= Memory Exhaust PoC,Critical
+1441,[web applications] - vShare&lt;=2.8.1 SQL injection + Remote Command Execution,Critical
+1442,[dos] - Kaspersky Internet Security 2013 - Denial Of Service Vulnerability,Critical
+1443,[web applications] - Nconf 1.3 SQL Injection / Cross Site Scripting Vulnerabilities,Critical
+1444,[remote exploits] - Viscosity setuid-set ViscosityHelper Privilege Escalation Vulnerability,Critical
+1445,[remote exploits] - Setuid Tunnelblick Privilege Escalation Vulnerability,Critical
+1446,[local exploits] - Photodex ProShow Producer v5.0.3297 (.pxs) Memory Corruption Exploit,Critical
+1447,[dos / poc] - VLC  2.0.5 (.bmp) Heap Overflow PoC,Critical
+1448,[remote exploits] - Microsoft Internet Explorer SLayoutRun Use-After-Free (MS13-009),Critical
+1449,[Exploit] Gallery Personals Script XSS,Critical
+1450,[Exploit] D-Link DIR-645 Authentication Bypass,Critical
+1451,[Exploit] Doorgets CSRF Vulnerability,Critical
+1452,[Exploit] Hanso Player M3U buffer overflow,Critical
+1453,[Exploit] PHP-Fusion Multiple Vulnerabilities,Critical
+1454,[Exploit] CSRF/Path-Traversal in Piwigo 2.4.6,Critical
+1455,[Exploit] Become root by changing system time,Critical
+1456,[Exploit] Win32/Sami FTP Server 2.0.1 LIST Command Remote Buffer Overflow,Critical
+1457,[remote] - GroundWork monarch_scan.cgi OS Command Injection,Critical
+1458,[webapps] - Hornbill Supportworks ITSM 1.0.0 - SQL Injection Vulnerability,Critical
+1459,[webapps] - phpMyAdmin 3.5.8 and 4.0.0-RC2 - Multiple Vulnerabilities,Critical
+1460,[remote exploits] - GroundWork monarch_scan.cgi OS Command Injection Vulnerability,Critical
+1461,[dos / poc] - Cisco Linksys WRT310N 2.0.00 Denial Of Service Vulnerability,Critical
+1462,[remote exploits] - D-Link DIR-615 / DIR-300 XSS / CSRF / Command Injection Vulnerabilities,Critical
+1463,[web applications] - phpMyAdmin 3.5.8 and 4.0.0-RC2 - Multiple Vulnerabilities,Critical
+1464,"Oh, strace....",Critical
+1465,[remote exploits] - aTunes <= 3.0.8 Update Spoofing Vulnerability,Critical
+1466,"Mentor Monday, May 03, 2021: Ask all your bug bounty questions!",Critical
+1467,Will I be ever able to do bugbounnty?,Critical
+1468,How to fingerprint a server-side image manipulation tool used by a website?,Critical
+1469,Searching for team.,Critical
+1470,Offensive Security PEN-200 OCSP Course Giveaway,Critical
+1471,Fuzzing / scanning VPS?,Critical
+1472,Advice? Maximum impact possible due to no rate-limiting on email subscription form?,Critical
+1473,Bug Bounty Radar // The latest bug bounty programs for May 2021,Critical
+1474,Advice? Disclose bug to retailer (Accidental find) - Not a bug bounty,Critical
+1475,remote code execution on jinja. Learn and try it yourself!,Critical
+1476,"Mentor Monday, April 26, 2021: Ask all your bug bounty questions!",Critical
+1477,Open source alternative to burpsuite?,Critical
+1478,amass dns enumeration gets me banned,Critical
+1479,How badly saturated is the bug bounty market?,Critical
+1480,"in the context of bug hunting, do people practice privilege escalation?",Critical
+1481,What to do after recon?,Critical
+1482,My first Bug Bounty,Critical
+1483,Remote code execution in Homebrew by compromising the official Cask repository,Critical
+1484,are there bug bounty hunters that refuse to be paid at all,Critical
+1485,"Bug Bytes #119 - AutoGraphQL, WhatsApp MitD & Desktop apps mishandling bad URIs - Intigriti",Critical
+1486,Could someone please recommend a list of top 20 books that are all on web hacking and bug hunting?,Critical
+1487,a useful learning source,Critical
+1488,what are some certs that can help me become a bug bounty hunter?,Critical
+1489,Why don't WAFs just block your IP after you send a certain number of malicious payloads?,Critical
+1490,How long does Mitre take to respond to CVE Request?,Critical
+1491,"Hello. Let's take a survey, what vulnerabilities do you find most often?",Critical
+1492,"Mentor Monday, April 19, 2021: Ask all your bug bounty questions!",Critical
+1493,is this enough to start hunting ?,Critical
+1494,"Noob asking which host OS should you use, to safely hunt for bugs?",Critical
+1495,Foundations of Bug Bounty Recon Explained,Critical
+1496,Swiss Post launches public bug bounty program with YesWeHack,Critical
+1497,Announcing Reddit’s Public Bug Bounty Program Launch,Critical
+1498,"1-click RCE in Telegram, Nextcloud, VLC, Libre-/OpenOffice, Bitcoin/Dogecoin Wallets, Wireshark and Mumble",Critical
+1499,Burpsuite beginner cheatsheet,Critical
+1500,SSRF help for a noob.,Critical
+1501,Beginners Bug Bounty - advice for what bug classes should you start with,Critical
+1502,Bug bounty hunting step by step (practical) resources?,Critical
+1503,Bug Bounty Radar // The latest bug bounty programs for April 2021,Critical
+1504,ELECTRIC CHROME: Exploiting CVE-2020-6418 on Tesla Model 3,Critical
+1505,Bounty payments - tax?,Critical
+1506,CRLF without a colon?,Critical
+1507,How to create a lot of vms on a cloud then make them execute code but divide the work into the number of vms that are spun up,Critical
+1508,Directory Fuzzing — Bug Bounty,Critical
+1509,"Mentor Monday, April 12, 2021: Ask all your bug bounty questions!",Critical
+1510,Recon subdomains,Critical
+1511,Tips (or just guesses lol) for trying to find security holes in boot sequence of my smartwatch?,Critical
+1512,"Please, help me🤞",Critical
+1513,Pwn2Own 2021 Schedule and Live Results,Critical
+1514,New subdomain validation tool written in Python,Critical
+1515,HTTP status codes useful for webappsec,Critical
+1516,What if you could deposit money into your Betting account for free?,Critical
+1517,"[X-post] Found major security flaws in company I accepted a sales offer in, how to leverage this to join dev team instead?",Critical
+1518,Breaking GitHub Private Pages for $35k,Critical
+1519,Bypassing xss filter - X-XSS-Protection: 1; mode=block,Critical
+1520,I Built a TV That Plays All of Your Private YouTube Videos,Critical
+1521,"Mentor Monday, April 05, 2021: Ask all your bug bounty questions!",Critical
+1522,Simple 2-FA Bugs and Logic Flaws That You Can Look For As A Beginner,Critical
+1523,Automate Cache Poisoning Vulnerability - Nuclei,Critical
+1524,Bug Bounty Radar // The latest bug bounty programs for April 2021,Critical
+1525,Facebook account takeover due to a bypass of allowed callback URLs in the OAuth flow,Critical
+1526,Facebook account takeover due to a wide platform bug in ajaxpipe responses,Critical
+1527,Can you work as a triager as a student with very basic bug bounty experience?,Critical
+1528,The fascinating World of Bug Bounties - What it is and how you could get your feet wet,Critical
+1529,VRT V1.10 RELEASED: FLASH DOWNGRADES AND EXTENDED AUTOMOTIVE CATEGORIZATION,Critical
+1530,Which VPS?,Critical
+1531,"Mentor Monday, March 29, 2021: Ask all your bug bounty questions!",Critical
+1532,Where do I start?,Critical
+1533,[PDF] Abusing Data Protection Laws For D0xing & Account Takeovers,Critical
+1534,Introducing Bounty Awards for Teams Desktop Client Security Research,Critical
+1535,"How to Perform Effective Web Application Security Assessments [April 6, 2021 | 10 AM PT / 1 PM ET / 6 PM GMT]",Critical
+1536,"XSS how-to covering: Absolute basics, types of XSS, contexts, discovery methods, polyglots, basic filter bypasses, event attributes, escalation methods, short payloads, bypassing SOP and edge cases",Critical
+1537,Multiple Authorization bypass issues in Google's Richmedia Studio,Critical
+1538,"TikTok Pays Out $11,000 Bounty for High-Impact Exploit",Critical
+1539,Ad portals and the half blood vulnerability,Critical
+1540,"Bug Bounty: A story of a N/A SQL Injection worth 15,000$",Critical
+1541,Can vulnerability scanners realistically find bugs on bounty programs?,Critical
+1542,Capture all android network traffic in clear text - my first blog post,Critical
+1543,learned how to perform OWASP top 10 attacks (& more) in detail & still not able to find my first bug?,Critical
+1544,Ratatata: The Bug Bounty Practice Platform With Free Labs,Critical
+1545,How I made it to Google HOF?,Critical
+1546,"Google Chrome Bug Bounty: $5,000 - File System Access API - vulnerabilities",Critical
+1547,$ziot - An experimental hacker themed social coin that is backed by NFT minted bug bounty vulnerability reports,Critical
+1548,An HTML Injection Worth 600$ Dollars,Critical
+1549,Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities; by Vickie Li,Critical
+1550,Google Business vulnerability,Critical
+1551,How I hacked Facebook: Part Two,Critical
+1552,Stealing arbitrary GitHub Actions secrets,Critical
+1553,"Hacking into Google's Network for $133,337 [LiveOverflow]",Critical
+1554,TikTok for Android 1-Click RCE,Critical
+1555,Announcing the winners of the 2020 GCP VRP Prize,Critical
+1556,I wrote a little Golang tool to harness the power of SecurityTrails API data while performing reconnaissance on large targets,Critical
+1557,I Hacked An Important State-owned Agency And Got Paid For It,Critical
+1558,looking for help to become a full-time hunter,Critical
+1559,A Subdomain Take Over Worth Three Figure$,Critical
+1560,"Mentor Monday, March 15, 2021: Ask all your bug bounty questions!",Critical
+1561,"There are so many hacking tools out there now, it's tough to figure out which ones are actually good. These ones are actually good! I use all of them frequently.",Critical
+1562,"Participate in Apple’s million dollar Bug Bounty program, without a real Mac (throwaway Hackintosh Dockers)",Critical
+1563,File/information disclosure methodology?,Critical
+1564,Urgently need help from experienced bug bounty ppl,Critical
+1565,go-dork - The fastest dork scanner written in Go.,Critical
+1566,Bitcoin exchange Sovryn launches record $1.25m bug bounty program,Critical
+1567,Bug Bounty Resources,Critical
+1568,NahamCon2021!,Critical
+1569,Bug Bounty Radar // The latest bug bounty programs for March 2021,Critical
+1570,Dangling DNS: Amazon EC2 IPs (Current State),Critical
+1571,Subreddit dedicated to mobile bug bounty?,Critical
+1572,"Blockzero Labs Opens $25,000 Bug Bounty for Flashstake v2 Protocol",Critical
+1573,GitHub script to fetch js files from url,Critical
+1574,Simple logic flaw for 2.5K USD,Critical
+1575,I found a bug for the first time (accidentally),Critical
+1576,what's better: books or courses?,Critical
+1577,What are you all using for taking screenshots?,Critical
+1578,Down Bad,Critical
+1579,"[question] if you found an SQL bug in a county site, would you inquire about a bounty, if so how would you do it?",Critical
+1580,Updated Bug Bounty Recon Tool,Critical
+1581,"APKLeaks - Scanning APK file for URIs, endpoints & secrets",Critical
+1582,Hunt IDORs the Easy Way with the Cookie Trick,Critical
+1583,How I Might Have Hacked Any Microsoft Account,Critical
+1584,Finding More IDORs – Tips And Tricks,Critical
+1585,Bug Bounty- Finding The First Bug,Critical
+1586,Bug Bounty Radar // The latest bug bounty programs for March 2021,Critical
+1587,How do I find more unique bugs?,Critical
+1588,"Mentor Monday, March 01, 2021: Ask all your bug bounty questions!",Critical
+1589,Stored XSS in Yahoo!,Critical
+1590,Must-watch Info Security Talks of 2020,Critical
+1591,New search interface on the disclose.io open-source database of known VDP and bug bounty programs,Critical
+1592,What is your favorite resource for becoming a better bug bounty hunter?,Critical
+1593,We reached a milestone of 12k members!,Critical
+1594,Owasp Zap for Bug Bounty,Critical
+1595,Bug Bounty Server [Discrd],Critical
+1596,Multiple vulnerabilities in Yealink device management platform allow an unauthenticated attacker to run arbitrary commands on the server with root privileges - SSD Secure Disclosure Advisory,Critical
+1597,Best Bug Bounty podcasts,Critical
+1598,"A weekly security recap: The critical VMware flaw, Clubhouse app eavesdropping, SimpliSafe Alarm System hack, NK Cryptocurrency theft",Critical
+1599,Basics of Bug Bounty Hunting on one page,Critical
+1600,What do I do if a Company doesn't pay up after offering a Reward?,Critical
+1601,WP GDPR Compliance <= 1.5.5 - Unauthenticated Cross-Site Scripting (XSS),Critical
+1602,"Mentor Monday, February 22, 2021: Ask all your bug bounty questions!",Critical
+1603,Reporting a vulnerability issue,Critical
+1604,Flaws in Zoom’s Keybase App Kept Chat Images From Being Deleted,Critical
+1605,How is bug bounty mentorship like ? and do i approach a bug hunter to make him mentor me?,Critical
+1606,RCE on a Laravel Private Program - ZDResearch,Critical
+1607,Stored XSS in icloud.com,Critical
+1608,I saw social engineering as a category on bugcrowd. Are there really social engineering bug hunting programs?,Critical
+1609,Write up about a bug found in the wild made into a blog post,Critical
+1610,"Live Interview with Codingo! Working at BugCrowd, Competing with YouTube, and Getting Into Ethical..",Critical
+1611,How to Find Your First Bug | via @InsiderPhD,Critical
+1612,Shielder - Hunting for bugs in Telegram's animated stickers remote attack surface,Critical
+1613,For all the Solidity devs - there's a bug bounty going about to find exploits in hedgey.finance's Protocol,Critical
+1614,0xtavian/awesome-attack-surface-monitoring - Resources for Attack Surface Monitoring!,Critical
+1615,Quick Question After Watching The Bug Hunter's Methodology V4.0,Critical
+1616,My disclosure mails doesn't get answered and sound like spam,Critical
+1617,"The ""P"" in Telegram stands for Privacy",Critical
+1618,"Awesome Bugbounty Writeups: A curated list of bugbounty writeups (Bug type wise) , inspire",Critical
+1619,An interesting overview of this week's Cyber Security News,Critical
+1620,Hacking Chess.com and Accessing 50 Million Customer Records | Sam Curry,Critical
+1621,Openbugbounty.org,Critical
+1622,Flying high in the Web Security Academy | Really great labs & resources to start with bug bounty,Critical
+1623,which tool is best for XSS hunting (least amount of false positives),Critical
+1624,A Tale of 2nd $xxx Bounty | Ability to Gain Persistence on Facebook Events as an unremovable…,Critical
+1625,"Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies",Critical
+1626,“Fake it till you break it” Bounty Program for FakeProof,Critical
+1627,top books for hacker,Critical
+1628,JWT key confusion (RSA->HMAC) without the public key,Critical
+1629,"Mentor Monday, February 08, 2021: Ask all your bug bounty questions!",Critical
+1630,"I curated a list of the most common bug types, based on valid+unique submissions received on the Bugcrowd platform over January - enjoy!",Critical
+1631,Need Advice - BugBounty Hunting / Learnpath to go deeper,Critical
+1632,I've taken Economics but am interested in cybersecurity and bug bounty hunting,Critical
+1633,Applying Offensive Reverse Engineering to Facebook Gameroom,Critical
+1634,Check Out GO LANG Sub domain finder,Critical
+1635,Best platforms?,Critical
+1636,Should I Report a Reflected XSS Or Create a Payload To Show The Website Owner The Extent Of The Dangers Of A XSS Vulnerability?,Critical
+1637,"Looking for good tools for creating ""fuzzing strings"" for web application specifically.",Critical
+1638,Google API map keys,Critical
+1639,How I was able to Turn a XSS into A Account Takeover,Critical
+1640,From scratch to first bug,Critical
+1641,Domain takeover? (Not subdomain),Critical
+1642,"Mentor Monday, February 01, 2021: Ask all your bug bounty questions!",Critical
+1643,Discord Bounty Hunters server,Critical
+1644,Join Portswigger Web Security Academy Unofficial Discord Server,Critical
+1645,Do I have to use a VPN when starting BB?,Critical
+1646,What do you recommend as a guide for finding bugs in crypto algorithms or implementations?,Critical
+1647,"Demonstrating impact with low severity bugs: Turn lemons into lemonade, and XSS into RCE in Umbraco CMS",Critical
+1648,DOM XSS,Critical
+1649,Facebook android & Facebook workplace vulnerability,Critical
+1650,Announcing Pwn2Own Vancouver for 2021. More than $1.5 million in cash and prizes available.,Critical
+1651,"I want to do writeup on some of my bugs, but these bugs are not fixed, should I do it?",Critical
+1652,"Mentor Monday, January 25, 2021: Ask all your bug bounty questions!",Critical
+1653,Recommendations for advanced learning materials?,Critical
+1654,I-Pin Korea,Critical
+1655,I'm near to release a tool to test the security of JSON Web Tokens,Critical
+1656,KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card,Critical
+1657,The Embedded YouTube Player Told Me What You Were Watching (and more),Critical
+1658,ShazLocate! Abusing CVE-2019-8791 & CVE-2019-8792,Critical
+1659,Great writeup of a $50k bounty from Apple (RCE due to 0day in their travel portal),Critical
+1660,A Glossary of Blind SSRF Chains from the Assetnote blog,Critical
+1661,A pretty awesome file upload checklist,Critical
+1662,Mass testing for bugs,Critical
+1663,Awesome Bug Bounty Tools,Critical
+1664,Making Clouds Rain :: Remote Code Execution in Microsoft Office 365,Critical
+1665,"Stealing Your Private YouTube Videos, One Frame at a Time",Critical
+1666,Chat for people looking for a team,Critical
+1667,Bug bounty isn’t dying. It’s the future. · rez0,Critical
+1668,"Mentor Monday, January 11, 2021: Ask all your bug bounty questions!",Critical
+1669,Bug Bounty: Break my Postman alternative and I'll Pay,Critical
+1670,Valid Stored XSS Found on IOT Device,Critical
+1671,10k for a bug that does not exist.,Critical
+1672,Create post on any Facebook page,Critical
+1673,"Story of stealing mail conversation, contacts in mail.ru and myMail iOS applications via XSS",Critical
+1674,How We Hacked a TP-Link Router and Took Home $55.000 in Pwn2Own,Critical
+1675,Bug Bounty Q&A - Zero to Hero in 3 months,Critical
+1676,bug bounty team,Critical
+1677,Here is a tool I created for querying crt.sh to gather all domains for a given company.,Critical
+1678,Telegram publishes users' locations online.,Critical
+1679,Is Android app reversing worth a career in bug bounty?,Critical
+1680,what are some good YouTube channels to follow to get to know the world of bug hunting?,Critical
+1681,Latest programs according to Port Swigger 🤔,Critical
+1682,Patch. Bypass. Repeat: Story of a FaceBook Page Admin Disclosure bug worth $5000,Critical
+1683,What courses I buy in udemy?,Critical
+1684,Github repo of all known bug bounty platforms (45) and Halls of Fame (497)... PRs welcome #glhf,Critical
+1685,Is it a good idea to publicly announce a vulnerability?,Critical
+1686,Is it legit to get into ios/andriod(app) penetesting??,Critical
+1687,Complementary resource,Critical
+1688,Does doing CTF help?,Critical
+1689,diodb: Open-source vulnerability disclosure and bug bounty program database by disclose.io,Critical
+1690,Bug bounty Beginner,Critical
+1691,Read this before posting: how to keep your post from being deleted.,Critical
+1692,/r/Scams Common Scam Master Post,Critical
+1693,Trust me bro,Critical
+1694,Messing with a scammer who hijacked one of my friends account!,Critical
+1695,First time trying to sell on Gumtree. Never again,Critical
+1696,"yeah sure buddy. (btw, should i continue chatting?)",Critical
+1697,Scammer educated me on what's real and what's not.,Critical
+1698,"How do I mess with the low effort “Give me your Drivers License and I give you $5,000” scams in my inbox? I want to waste their time",Critical
+1699,Friend request I just got that assures me it’s real and official,Critical
+1700,Please help me im freaking out,Critical
+1701,Wtf is that? Totally scammy Add on youtube,Critical
+1702,"Easy Money! All he needs is my bank info! It’s gotta be legit right? He’s obviously educated by how well spoken he is. If anyone else would like his contact info, message me!",Critical
+1703,"Joke’s on them, I don’t have any pending orders! 🤪",Critical
+1704,Fiance got hit on Facebook...,Critical
+1705,"Just looked them up and luckily someone posted on Instagram that this is a scam, the glixis was originally operating under a different name. Felt strange but confirmed scam.",Critical
+1706,Is Arsetti.com Scam Website?,Critical
+1707,"ı have been scammed from this guy 21,000 dogecoin any help to take it back ?!? I reached a friend of him but he is also block me and ignored what I said",Critical
+1708,Is this a new kind of gift card scam or is this legit?,Critical
+1709,Is this sort of thing on Facebook a scam? Barely know this person either & is pretty out of the blue,Critical
+1710,Is this email from an offical microsoft email account? These days the emails they send look so real it can be difficult to tell,Critical
+1711,dexy exchange scam fraud,Critical
+1712,"weird dm I got, im not sure if its allowed, i'll take down if its not.",Critical
+1713,Saw a rental in person from someone saying they are the property manager. Can this be a scam?,Critical
+1714,I used to live in Los Angeles. I've never owned a house. I get these texts ALL THE TIME! I have no idea how this scam even works or what the end game is. But I've started replying in ways that make me giggle.,Critical
+1715,Scam? I don’t think I have a text message service set up with bank.,Critical
+1716,Scam text,Critical
+1717,Secret Shopper Scam,Critical
+1718,"sure thing Anthony, lemme just grab my wallet!",Critical
+1719,Would this solicitation mail be considered scam ?,Critical
+1720,I've been receiving these emails.,Critical
+1721,Urgent advice needed - buying through telegram,Critical
+1722,What is it with all these ads for mobile games that say you can win money?,Critical
+1723,Question about a business,Critical
+1724,"Nice try, I don’t have close to that much money!",Critical
+1725,"No Red Flags Here! Nothing shady about a give away for $750 food stamp cards! 🙄 And is the SSI deposit supposed to add credibility, or what?",Critical
+1726,This man is 100% trying to scam little children thinking mr beast is giving them money,Critical
+1727,Facebook marketplace scam?,Critical
+1728,Someone (genuine sounding) called my mobile & said they had 3 missed calls from me today. I haven’t called anyone.,Critical
+1729,What happens if you answer a spam risk call?,Critical
+1730,Chromecast support scam. This one almost got my mom. They tried to sell her another chromecast for $100 saying hers was broken.,Critical
+1731,They’re getting lazier.,Critical
+1732,These guys just get more stupid each day huh,Critical
+1733,"Scam saying I asked for a Samsung Galaxy…my name is not Kwame, nor have I demanded a Samsung 🤦🏽‍♀️",Critical
+1734,Steams Scamers from discord,Critical
+1735,"Will Joe, Amanda and Katie respect Ramadan and COVID?",Critical
+1736,I’m bored,Critical
+1737,ONTARIO JOB SCAM/SCAMMERS OTTAWA TORONTO,Critical
+1738,Is this fake?,Critical
+1739,Ideal Image laser hair removal monthly payment contract charging me even if I don’t get the services,Critical
+1740,Pancake is the new multibillion ponzi scheme no one is talking about?,Critical
+1741,Dragonscale Gauntlets from Leviac,Critical
+1742,So the scammer who had all my information and plus made the account he tried to login when I already changed everything on him he f****ed up now I exactly know where his from!! Useful website,Critical
+1743,Hermes redelivery scam (UK),Critical
+1744,Feeling violated.,Critical
+1745,UPS MyChoice is a scam,Critical
+1746,I really really fucked up,Critical
+1747,"Found my resume on indeed or monster offer a job after 1 hour of a continued text interview through telegram app with no zoom call or call for hired on. They asked for a check to be deposited on my account on funds other companies owe them. Lol i figured it was a scam like 30mins into the ""interview",Critical
+1748,Is this a scam? I didn't enter anything and it looks to good to be true,Critical
+1749,Stopped one in progress.... I hope.,Critical
+1750,"A scam ive encountered twice now, they put up a fake bitcoin site, tell you to deposit bitcoin so you can get your bitcoin out",Critical
+1751,Is extremeinn legit?,Critical
+1752,Password Reset Emails,Critical
+1753,Xpadder email,Critical
+1754,After a month do you think sextortion scammers from a different country have gotten rid of your photo(s)?,Critical
+1755,SkyNet out here running scams now...,Critical
+1756,"Apartment claiming my mom owes them thousands of dollars in rent, but she never lived there. Is this a scam?",Critical
+1757,tinder massage therapists?,Critical
+1758,"Are these scams? ""No review/product tester"" groups",Critical
+1759,Roommate ID.me Theft Catfish Scam,Critical
+1760,I got scammed online,Critical
+1761,Is this email safe to open?,Critical
+1762,People are showing up at my house because someone they met on a dating app sent them here,Critical
+1763,"BEWARE:Fake channel scam, not sure where to post.",Critical
+1764,Anyone hear of Matt LLoyd MOBE services?,Critical
+1765,Is it s scam on Craigslist?,Critical
+1766,I fell for a fake job/fake check scam and I gave out some personal information. Any next steps?,Critical
+1767,elondrop.cash Fake Elon Musk Tweet on other Socialmedia.,Critical
+1768,Received an interesting payment today from a random stranger. Immediately blocked him and I'm just going to leave the money in my venmo account for now,Critical
+1769,Is this an actual email from PayPal? The sender looks legit and they had my first and last name but you can never be too careful.,Critical
+1770,YouTube/Twitch scam be careful.,Critical
+1771,Meeting someone for weights,Critical
+1772,Is this website a scam? It was an add on a social media website. It claims to create all the products in the USA but the site is littered in broken English.,Critical
+1773,I Want to Make These Fools Suffer!,Critical
+1774,Dumb Scammers gave me all of their personal information :),Critical
+1775,Is this a scam or is it legit? Popped up on phone a couple times are those links legit for example?,Critical
+1776,"Hi, I have a question",Critical
+1777,i went on discord and woke up to this,Critical
+1778,I mean it is Mr.Beast,Critical
+1779,"Just trying to help people with my YT channel, and I gotta deal with people like this. I feel even more insulted because my channel is about helping with tech things and scams... Really?",Critical
+1780,I’m stupid and I think I got scammed and now I’m overthinking,Critical
+1781,"3 calls, 3 different numbers, 1 scam",Critical
+1782,"This is the second time I’ve gotten one of these messages in the last 3 days. I know it’s a scam, because I’m not requesting to change my Instagram password. I haven’t clicked the link either time. Both times I’ve changed my password for my Instagram as well as Facebook.",Critical
+1783,Scam message site,Critical
+1784,Vacation rewards international Scam,Critical
+1785,Google can easily help with the Google voice verification scam.,Critical
+1786,Sent to collection medical bills paid in cash,Critical
+1787,Reddit scammers,Critical
+1788,"Is this true? My friend applied for this company and they didn't conduct any face to face interviews, any insite would be helpful. Thank you.",Critical
+1789,Sounds Legit,Critical
+1790,Scammed in r/dogemarket by u/Double_Water,Critical
+1791,"Is this a scam? It says ""Hello (my name), you're from Milpitas (where I live)?""",Critical
+1792,Thanks *lebron james*,Critical
+1793,Got a Venmo scam yesterday from what appeared to be my GF’s account. I laughed because she was sitting right next to me and I know better. Minutes later her mom called us saying she sent the money and felt uneasy about it.,Critical
+1794,"No, your CashApp has not been hacked, and these guys are idiots.",Critical
+1795,"Received debit cards from two separate banks, but I never applied to these banks.",Critical
+1796,"Another btc scam, claiming to pour acid on my face. 🤣😂",Critical
+1797,"A Very Elder Dog is giving me two million pounds sterling! Seems legit, right?",Critical
+1798,Is scholarships Canada a scam?,Critical
+1799,I've got a question,Critical
+1800,"Selling iPad online, buyers wants to pay via Western Union Auction",Critical
+1801,another lousy scam lol,Critical
+1802,Just Answer - BEWARE !!,Critical
+1803,CashApp: Do you think this is a scam?,Critical
+1804,Help with sextortion scam,Critical
+1805,2nd job interview ever turned out to be an MLM,Critical
+1806,"Optimize your SEO they say, more people will find your website they say. And by more people they mean scammers will find you easier.",Critical
+1807,Fake check,Critical
+1808,Possible fraud?,Critical
+1809,Norton Protection Scam?,Critical
+1810,My Father got scammed for $595 when buying a stove on FB marketplace,Critical
+1811,Is there always a beep at the beginning of scam calls?,Critical
+1812,Canon printer setup scam,Critical
+1813,Is this job a scam?,Critical
+1814,"I keep getting emails that say "" Contact (random name) And see her private photos "" and say it's from Google forms, I get about 7 a day",Critical
+1815,Amazon Iphone Scam Email Confirmation-5/3/2021,Critical
+1816,Underage scam with a difference,Critical
+1817,Yes a lot of evil dark spirits will come for you unless you donate to this random scam charity.,Critical
+1818,"I see this type of post on FB ALL THE TIME, and I'm wondering has anyone actually bought from a post like this and is it legit?",Critical
+1819,Facebook friend request,Critical
+1820,Trying to Buy a Capture Camera but Don't want to get Scammed,Critical
+1821,Weird Text,Critical
+1822,"What's up with this? Get a cpl texts like this from random gmail addresses about once a month. Asked once who they were, no response. Don't worry - I've never tapped on that weird link.",Critical
+1823,"""Snapchat"" texts almost certainly a scam",Critical
+1824,How do I alert you to a scam number?,Critical
+1825,Prizefxonline,Critical
+1826,I've had two phishing texts asking me to recover my insta account in the past 24 hrs... From the same text bot number as a Facebook phish from last year. Watch out folks!,Critical
+1827,Daily Pottered Store??,Critical
+1828,Is this scam? (More info in the comments),Critical
+1829,Need help and advice on what to do,Critical
+1830,Muammar al-Gaddafi’s daughter wants to wire me $27.5 million United State dollars only. Should I accept?,Critical
+1831,Sooo are these scams or not?,Critical
+1832,Payment waiting green dot account scam? I obviously didn’t fall for it but has anybody seen this before?,Critical
+1833,Is this a scam? They replied quite quick to my messages and rather fast.,Critical
+1834,Getting texts & calls for items that I didn't order at all,Critical
+1835,Amazon call scam. I pressed 1,Critical
+1836,Received this out of the blue. I'm assuming it is a scam? I haven't ordered anything recently. Has anyone got a text like this?,Critical
+1837,🤔,Critical
+1838,I (M 16) am being sextorted by a person in a foreign country. What action should I take now?,Critical
+1839,Has anyone experienced this scam (details within)?,Critical
+1840,Scam yes? I want to accept,Critical
+1841,[MLM] “Independent distributor” of “medical water machines” tries to convince me that my terminally ill cat’s vet is lying about the diagnosis to make a profit.,Critical
+1842,Wow they really tried to get me with this one I found it on YouTube,Critical
+1843,My mom has been in contact with lottery scammers,Critical
+1844,Bitwexray.com,Critical
+1845,Hope Business,Critical
+1846,Almost lost my steam account,Critical
+1847,Bitcoin Scam?,Critical
+1848,Started getting emails (which aren't going straight to spam) from Emergencyemail.org. Is this sketch?,Critical
+1849,What's the scam here? Just trying to get my personal information?,Critical
+1850,"Scammed by Seller on Ebay, What should I do",Critical
+1851,my second joe biden scam email.,Critical
+1852,Got another one. The grammar helps me to know this is the real deal. NOT!,Critical
+1853,Alc for verification,Critical
+1854,Chinese scam in my own concept folder?,Critical
+1855,Relentless Discord security code text spam,Critical
+1856,Letgo / Offerup birthday cheap Item scam,Critical
+1857,"Getting lazy, eh?",Critical
+1858,Question about scam notifications on windows,Critical
+1859,Nice little PayPal scam I came across today selling something on Gumtree (UK),Critical
+1860,Donation Scam?,Critical
+1861,Dear first name… I mean they aren’t even trying anymore.,Critical
+1862,Should I respond?,Critical
+1863,"I received a $6,500 money order from another country with no return address and no request for anything.",Critical
+1864,Scam on Amazon Prime in Xfinity Flex,Critical
+1865,Received an abundance of texts and emails from various sources referencing my real name?,Critical
+1866,"I was added to this group, I suspect by the banned user that I haven't blurred is this / could this have been a scam?",Critical
+1867,Kickflip consignment,Critical
+1868,I saved a coworker today,Critical
+1869,"Scammers says she'll send us ""money""",Critical
+1870,Is this website a scam?,Critical
+1871,Is this a SPAM mail?,Critical
+1872,online threatening and extortion,Critical
+1873,Is entering a link enough for you to be scammed?,Critical
+1874,Me being stupid and taking an obvious scam (tf2),Critical
+1875,Prime Vehicle Traders (NewYork) is a nasty huge SCAM!!,Critical
+1876,Am I In a Romance Scam?,Critical
+1877,Don’t fall for this Network Marketing crap,Critical
+1878,Should i feel bad i got scammed from 180 euros?,Critical
+1879,Facebook Marketplace Tracking Number Scam,Critical
+1880,I think it is; but is it? It's a job offer for a data entry position.,Critical
+1881,Someone messaged me on Whatsapp,Critical
+1882,"Um, alright. Now these are just getting weird.",Critical
+1883,What are the scams on Freelancer? I just started it trying to get a job done & most of the bidders are 0/5 stars with 0 jobs. Is this normal? What are their scams I need to look out for?,Critical
+1884,A co-worker and I were both scammed. Are we ok?,Critical
+1885,I’m not even a teacher,Critical
+1886,Need some more advice,Critical
+1887,My dad was scammed and I'm not sure what they stole on his computer,Critical
+1888,Personal Chef Scam? I have my own cooking business and they emailed my business email.,Critical
+1889,"What’s she got against gamers? Jeeeez. How rude. ...Also, I’m a bi woman, so I don’t think I’m her type. (Also a gamer.)",Critical
+1890,Tinder Scam,Critical
+1891,Online Clothing - How do I find the REAL owners of the photos/products?,Critical
+1892,"Instagram Feet Pic Scam? I'm skeptical, but just wondering!",Critical
+1893,Is This A Scam?,Critical
+1894,Question,Critical
+1895,"Fake ""elon musk"" giveaway. Also it's not just some random video in corner of youtube IT'S A BLOODY AD. Youtube rules are joke",Critical
+1896,Unknowingly Commited Fraud?,Critical
+1897,Bitmart Scam,Critical
+1898,"Referred here from another Sub, possible Amazon scam?",Critical
+1899,"Selling items online - scam attempt, but what?",Critical
+1900,Have you seen this before?,Critical
+1901,Omaze and Onecountry Give? Are they scams?,Critical
+1902,Not a new scam just an question,Critical
+1903,I had someone try to scam me... but I made it fun!,Critical
+1904,What should I do with him? I want to make sure he gets caught.,Critical
+1905,This wierd scammer it only $100 he didnt stop even when i lis about me being underage,Critical
+1906,I think my cellphone # or my dad's cellphone # is compromised by scammers...,Critical
+1907,Çıngıraksız Yılan - This is a scam channel,Critical
+1908,Ripple Giveaway,Critical
+1909,"Anyone heard of ""Star Like""?? Seems like a new Ponzi scheme in Australia",Critical
+1910,"Well, let me just drop everything and respond right away, Sexy Gal Kaitlyn ™",Critical
+1911,Never had this happen in person before?,Critical
+1912,A clear scammer she wanted money for her friend in Chile and got hurt when I called her on her bull crap watch out for u/SkyComprehension,Critical
+1913,Kik Blackmailer update,Critical
+1914,Am I getting scammed?,Critical
+1915,Is this a scam email? I haven't had a chase account for over year. Sent no.reply.alerts@chase.com,Critical
